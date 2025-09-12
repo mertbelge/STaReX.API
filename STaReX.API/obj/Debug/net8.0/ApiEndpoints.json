@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "STaReX.API.Controllers.HomeController.HomeController",
+    "Method": "GetBy",
+    "RelativePath": "api/Home/connection-testing",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

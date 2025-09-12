@@ -1,0 +1,6 @@
+@STaReX.API_HostAddress = http://localhost:5030
+
+GET {{STaReX.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
