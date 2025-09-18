@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\STaReX.BUSINESS\STaReX.BUSINESS.csproj" />
+    <ProjectReference Include="..\STaReX.HELPERS\STaReX.HELPERS.csproj" />
   </ItemGroup>
 
 </Project>

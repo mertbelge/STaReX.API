@@ -1,5 +1,6 @@
 ﻿using Dapper;
 using STaReX.ENTITY.Abstract;
+using STaReX.ENTITY.Dto;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -9,8 +10,8 @@ using System.Threading.Tasks;
 
 namespace STaReX.DB.Abstract
 {
-    public interface IRepository<T> where T : IEntity
+    public interface IDatabaseRepository<T> where T : IEntity
     {
-        Task<T?> GetByIdAsync(string query, DynamicParameters? parametes );
+        Task<T?> GetByIdAsync(string url, DynamicParameters? parametes );
     }
 }

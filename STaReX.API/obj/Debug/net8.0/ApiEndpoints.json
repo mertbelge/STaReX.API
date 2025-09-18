@@ -1,5 +1,15 @@
 [
   {
+    "ContainingType": "STaReX.API.Controllers.HolidayController.HolidayController",
+    "Method": "GetList",
+    "RelativePath": "api/Holiday/get-holidays",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "STaReX.API.Controllers.HomeController.HomeController",
     "Method": "GetBy",
     "RelativePath": "api/Home/connection-testing",
@@ -7,6 +17,27 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "STaReX.API.Controllers.WeatherController.WeatherController",
+    "Method": "GetBy",
+    "RelativePath": "api/Weather/get-weather",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "latitude",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "longitude",
+        "Type": "System.Double",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": []
   }
 ]

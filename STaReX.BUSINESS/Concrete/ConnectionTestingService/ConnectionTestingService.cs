@@ -14,14 +14,12 @@ namespace STaReX.BUSINESS.Concrete.ConnectionTestingService
 {
     public class ConnectionTestingService: IConnectionTestingService
     {
-        private readonly IConfiguration _configuration;
         private readonly ProcedureOptions _procedureOptions;
-        private readonly IRepository<ConnectionTesting> _repository;
+        private readonly IDatabaseRepository<ConnectionTesting> _repository;
 
-        public ConnectionTestingService(IConfiguration configuration, IRepository<ConnectionTesting> repository, IOptions<ProcedureOptions> options)
+        public ConnectionTestingService(IDatabaseRepository<ConnectionTesting> repository, IOptions<ProcedureOptions> options)
         {
 
-            _configuration = configuration;
             _repository = repository;
             _procedureOptions = options.Value;
 

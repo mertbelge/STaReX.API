@@ -5,10 +5,52 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/Holiday/get-holidays": {
+      "get": {
+        "tags": [
+          "Holiday"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Home/connection-testing": {
       "get": {
         "tags": [
           "Home"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Weather/get-weather": {
+      "get": {
+        "tags": [
+          "Weather"
+        ],
+        "parameters": [
+          {
+            "name": "latitude",
+            "in": "query",
+            "schema": {
+              "type": "number",
+              "format": "double"
+            }
+          },
+          {
+            "name": "longitude",
+            "in": "query",
+            "schema": {
+              "type": "number",
+              "format": "double"
+            }
+          }
         ],
         "responses": {
           "200": {

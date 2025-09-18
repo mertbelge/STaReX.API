@@ -736,7 +736,8 @@
           "Microsoft.Extensions.Configuration.Abstractions": "9.0.9",
           "Microsoft.Extensions.Options": "9.0.9",
           "STaReX.DB": "1.0.0",
-          "STaReX.ENTITY": "1.0.0"
+          "STaReX.ENTITY": "1.0.0",
+          "STaReX.HELPERS": "1.0.0"
         },
         "compile": {
           "bin/placeholder/STaReX.BUSINESS.dll": {}
@@ -752,6 +753,7 @@
           "Dapper": "2.1.66",
           "Microsoft.Data.SqlClient": "6.1.1",
           "Microsoft.Extensions.Configuration.Abstractions": "9.0.9",
+          "Microsoft.Extensions.Options": "9.0.9",
           "STaReX.ENTITY": "1.0.0"
         },
         "compile": {
@@ -769,6 +771,21 @@
         },
         "runtime": {
           "bin/placeholder/STaReX.ENTITY.dll": {}
+        }
+      },
+      "STaReX.HELPERS/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Dapper": "2.1.66",
+          "STaReX.DB": "1.0.0",
+          "STaReX.ENTITY": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/STaReX.HELPERS.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/STaReX.HELPERS.dll": {}
         }
       }
     }
@@ -2155,11 +2172,17 @@
       "type": "project",
       "path": "../STaReX.ENTITY/STaReX.ENTITY.csproj",
       "msbuildProject": "../STaReX.ENTITY/STaReX.ENTITY.csproj"
+    },
+    "STaReX.HELPERS/1.0.0": {
+      "type": "project",
+      "path": "../STaReX.HELPERS/STaReX.HELPERS.csproj",
+      "msbuildProject": "../STaReX.HELPERS/STaReX.HELPERS.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "STaReX.BUSINESS >= 1.0.0",
+      "STaReX.HELPERS >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
   },
@@ -2198,6 +2221,9 @@
           "projectReferences": {
             "C:\\Users\\Mert BELGE\\Desktop\\STaReX\\STaReX.BUSINESS\\STaReX.BUSINESS.csproj": {
               "projectPath": "C:\\Users\\Mert BELGE\\Desktop\\STaReX\\STaReX.BUSINESS\\STaReX.BUSINESS.csproj"
+            },
+            "C:\\Users\\Mert BELGE\\Desktop\\STaReX\\STaReX.HELPERS\\STaReX.HELPERS.csproj": {
+              "projectPath": "C:\\Users\\Mert BELGE\\Desktop\\STaReX\\STaReX.HELPERS\\STaReX.HELPERS.csproj"
             }
           }
         }

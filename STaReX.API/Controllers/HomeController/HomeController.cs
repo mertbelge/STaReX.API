@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using STaReX.BUSINESS.Abstract.IConnectionTestingService;
-using STaReX.ENTITY.Models.ConnectionTesting;
 
 namespace STaReX.API.Controllers.HomeController
 {

@@ -14,6 +14,7 @@
   <ItemGroup>
     <ProjectReference Include="..\STaReX.DB\STaReX.DB.csproj" />
     <ProjectReference Include="..\STaReX.ENTITY\STaReX.ENTITY.csproj" />
+    <ProjectReference Include="..\STaReX.HELPERS\STaReX.HELPERS.csproj" />
   </ItemGroup>
 
 </Project>

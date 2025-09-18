@@ -1,20 +1,24 @@
 ﻿using Dapper;
 using STaReX.DB.Abstract;
+using STaReX.DB.Dtos;
 using STaReX.ENTITY.Abstract;
+using STaReX.ENTITY.Dto;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
+using System.Text.Json;
 using System.Threading.Tasks;
 
 namespace STaReX.DB.Concrete
 {
-    public class Repository<T> : IRepository<T> where T : IEntity
+    public class DatabaseRepository<T> : IDatabaseRepository<T> where T : IEntity
     {
 
         private readonly DBContext _dbContext;
 
-        public Repository(DBContext dbContext)
+        public DatabaseRepository(DBContext dbContext)
         {
             _dbContext = dbContext;
         }

@@ -9,10 +9,16 @@ namespace STaReX.DB.Dtos
     public class ProcedureOptions
     {
         public ConnectionTestingProcedure ConnectionTestingProcedure { get; set; } = null!;
+        public HelpersAPIProcedure HelpersAPIProcedure { get; set; } = null!;
     }
 
     public class ConnectionTestingProcedure
     {
         public string CONNECTION_TESTING { get; set; } = null!;
+    }
+
+    public class HelpersAPIProcedure
+    {
+        public string GET_BY_KEYWORD { get; set; } = null!;
     }
 }
