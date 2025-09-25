@@ -1,4 +1,5 @@
 ﻿using STaReX.ENTITY.Models.ConnectionTesting;
+using STaReX.ENTITY.Dto;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,6 @@ namespace STaReX.BUSINESS.Abstract.IConnectionTestingService
 {
     public interface IConnectionTestingService
     {
-        Task<ConnectionTesting> GetBy();
+        Task <StatusResponse<ConnectionTesting>> GetBy();
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/TZJ8Tl6Z9Y=",
+  "dgSpecHash": "js4KweZZ31g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mert BELGE\\Desktop\\STaReX\\STaReX.DB\\STaReX.DB.csproj",
+  "projectFilePath": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.DB\\STaReX.DB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mert BELGE\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Mert BELGE\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

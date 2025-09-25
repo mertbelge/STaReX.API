@@ -1,1 +1,20 @@
-{"Version":1,"Hash":"GoIzekx2UgNypsKg+SIx2qZ9CoY4Tl6y6piiLRsrhno=","Source":"STaReX.API","BasePath":"_content/STaReX.API","Mode":"Default","ManifestType":"Publish","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+{
+  "Version": 1,
+  "Hash": "uf8sQQIBziGVnW9800wnUPhbrEzOWSc0DNA15UJv3yM=",
+  "Source": "STaReX.API",
+  "BasePath": "_content/STaReX.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "STaReX.API\\wwwroot",
+      "Source": "STaReX.API",
+      "ContentRoot": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\",
+      "BasePath": "_content/STaReX.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

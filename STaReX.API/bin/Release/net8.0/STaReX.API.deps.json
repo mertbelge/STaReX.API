@@ -9,6 +9,7 @@
       "STaReX.API/1.0.0": {
         "dependencies": {
           "STaReX.BUSINESS": "1.0.0",
+          "STaReX.HELPERS": "1.0.0",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
         "runtime": {
@@ -471,11 +472,12 @@
           "Microsoft.Extensions.Configuration.Abstractions": "9.0.9",
           "Microsoft.Extensions.Options": "9.0.9",
           "STaReX.DB": "1.0.0",
-          "STaReX.ENTITY": "1.0.0"
+          "STaReX.ENTITY": "1.0.0",
+          "STaReX.HELPERS": "1.0.0"
         },
         "runtime": {
           "STaReX.BUSINESS.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -485,11 +487,12 @@
           "Dapper": "2.1.66",
           "Microsoft.Data.SqlClient": "6.1.1",
           "Microsoft.Extensions.Configuration.Abstractions": "9.0.9",
+          "Microsoft.Extensions.Options": "9.0.9",
           "STaReX.ENTITY": "1.0.0"
         },
         "runtime": {
           "STaReX.DB.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -497,7 +500,20 @@
       "STaReX.ENTITY/1.0.0": {
         "runtime": {
           "STaReX.ENTITY.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "STaReX.HELPERS/1.0.0": {
+        "dependencies": {
+          "Dapper": "2.1.66",
+          "STaReX.DB": "1.0.0",
+          "STaReX.ENTITY": "1.0.0"
+        },
+        "runtime": {
+          "STaReX.HELPERS.dll": {
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -801,6 +817,11 @@
       "sha512": ""
     },
     "STaReX.ENTITY/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "STaReX.HELPERS/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

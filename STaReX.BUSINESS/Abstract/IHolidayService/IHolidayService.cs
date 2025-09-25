@@ -10,6 +10,6 @@ namespace STaReX.BUSINESS.Abstract.IHolidayService
 {
     public interface IHolidayService
     {
-        Task<IEnumerable<HolidayResponse>> GetList();
+        Task <StatusResponse<IEnumerable<HolidayResponse>>> GetList();
     }
 }

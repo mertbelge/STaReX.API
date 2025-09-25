@@ -5,7 +5,6 @@ using STaReX.BUSINESS.Abstract.IHolidayService;
 using STaReX.ENTITY.Dto;
 using STaReX.ENTITY.Models.Holidays;
 using STaReX.HELPERS.Abstract;
-using STaReX.HELPERS.Dto;
 using STaReX.HELPERS.Dtos;
 using System;
 using System.Collections.Generic;
@@ -27,11 +26,11 @@ namespace STaReX.BUSINESS.Concrete.HolidayService
             _helperOptions = options.Value;
         }
 
-        public async Task<IEnumerable<HolidayResponse>> GetList()
+        public async Task<StatusResponse<IEnumerable<HolidayResponse>>> GetList()
         {
             var keyword = _helperOptions.HolidayOptions.HOLIDAY_KEYWORD;
 
-            var result = await _repository.GetAllAsync("holidays", null);
+            var result = await _repository.GetAllAsync(keyword, null);
 
             IEnumerable<HolidayResponse> response = result.resmitatiller.Select(x => new HolidayResponse
             {
@@ -42,7 +41,7 @@ namespace STaReX.BUSINESS.Concrete.HolidayService
                 LongDate = x.uzuntarih
             }).ToList();
            
-            return response;
+            return StatusResponse<IEnumerable<HolidayResponse>>.Success(response);
 
         }
 

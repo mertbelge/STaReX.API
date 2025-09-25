@@ -3,6 +3,7 @@ using Microsoft.Extensions.Options;
 using STaReX.BUSINESS.Abstract.IConnectionTestingService;
 using STaReX.DB.Abstract;
 using STaReX.DB.Dtos;
+using STaReX.ENTITY.Dto;
 using STaReX.ENTITY.Models.ConnectionTesting;
 using System;
 using System.Collections.Generic;
@@ -25,11 +26,11 @@ namespace STaReX.BUSINESS.Concrete.ConnectionTestingService
 
         }
 
-        public async Task<ConnectionTesting> GetBy()
+        public async Task<StatusResponse<ConnectionTesting>> GetBy()
         {
             var procedure = _procedureOptions.ConnectionTestingProcedure.CONNECTION_TESTING;
             var result = await _repository.GetByIdAsync(procedure, null);
-            return result;
+            return StatusResponse<ConnectionTesting>.Success(result);
         }
 
     }

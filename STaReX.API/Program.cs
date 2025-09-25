@@ -1,8 +1,10 @@
 using STaReX.BUSINESS.Abstract.IConnectionTestingService;
 using STaReX.BUSINESS.Abstract.IHolidayService;
+using STaReX.BUSINESS.Abstract.IQCDELogReaderService;
 using STaReX.BUSINESS.Abstract.IWeatherService;
 using STaReX.BUSINESS.Concrete.ConnectionTestingService;
 using STaReX.BUSINESS.Concrete.HolidayService;
+using STaReX.BUSINESS.Concrete.QCDELogReaderService;
 using STaReX.BUSINESS.Concrete.WeatherService;
 using STaReX.DB;
 using STaReX.DB.Abstract;
@@ -32,6 +34,7 @@ builder.Services.AddTransient(typeof(IHelperRepository<>), typeof(HelperReposito
 builder.Services.AddTransient<IConnectionTestingService, ConnectionTestingService>();
 builder.Services.AddTransient<IHolidayService, HolidayService>();
 builder.Services.AddTransient<IWeatherService, WeatherService>();
+builder.Services.AddTransient<IQCDELogReaderService, QCDELogReaderService>();
 
 var app = builder.Build();
 

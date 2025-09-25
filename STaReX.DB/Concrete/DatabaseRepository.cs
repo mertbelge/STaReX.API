@@ -31,5 +31,14 @@ namespace STaReX.DB.Concrete
                 return result;
             }
         }
+
+        public async Task<T> InsertAsync(string query, DynamicParameters? parametes)
+        {
+            using (var connection = _dbContext.CreateConnection())
+            {
+                var result = await connection.QueryFirstOrDefaultAsync<T>(query, parametes, commandType: System.Data.CommandType.StoredProcedure);
+                return result;
+            }
+        }
     }
 }

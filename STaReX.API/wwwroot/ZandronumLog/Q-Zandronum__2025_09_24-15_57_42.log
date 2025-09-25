@@ -1,0 +1,89 @@
+[15:57:42] Log started: D:/Zandronum/Log/Q-Zandronum__2025_09_24-15_57_42.log, Wed Sep 24 15:57:42 2025
+[15:57:42] deathmatch will be changed for next game.
+[15:57:42] ParseTeamInfo: Load team definitions.
+[15:57:44] I_Init: Setting up machine state.
+[15:57:44] CPU Speed: 2799 MHz
+[15:57:44] CPU Vendor ID: GenuineIntel
+[15:57:44]   Name: Intel(R) Xeon(R) CPU X5660 @ 2.80GHz
+[15:57:44]   Family 6, Model 44, Stepping 2
+[15:57:44]   Features: MMX SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2
+[15:57:44] Using in-memory database. The database will not be saved on exit.
+[15:57:44] IPFileParser::parseIPList: could not open adminlist.txt: No such file or directory
+[15:57:44] IPFileParser::parseIPList: could not open whitelist.txt: No such file or directory
+[15:57:44] IPFileParser::parseIPList: could not open banlist.txt: No such file or directory
+[15:57:44] S_Init: Setting up sound.
+[15:57:44] ST_Init: Init startup screen.
+[15:57:44] Checking cmd-line parameters...
+[15:57:44] S_InitData: Load sound definitions.
+[15:57:45] G_ParseMapInfo: Load map definitions.
+[15:57:45] Texman.Init: Init texture manager.
+[15:57:54] LoadActors: Load actor definitions.
+[15:57:54] R_Init: Init Doom refresh subsystem.
+[15:57:54] DecalLibrary: Load decals.
+[15:57:54] PWO_Init: Initializing preferred weapon order.
+[15:57:54] M_Init: Init menus.
+[15:57:56] P_Init: Init Playloop state.
+[15:57:57] ParseSBarInfo: Loading default status bar definition.
+[15:57:57] ParseSBarInfo: Loading custom status bar definition.
+[15:57:57] D_CheckNetGame: Checking network game status.
+[15:57:57] using alternate port 10666
+[15:57:57] player 1 of 1 (1 nodes)
+[15:57:57] Initializing network subsystem.
+[15:57:57] Server using alternate port 10666.
+[15:57:57] Winsock initialization succeeded!
+[15:57:57] IP address 192.168.0.19:10666
+[15:58:01] GeoIP initialization failed.
+[15:58:02] UDP Initialized.
+[15:58:07] NAT discovery error: Fail to find an UPNP NAT.
+[15:58:07] 
+[15:58:07] QCDE01 (Blood Covenant) added to map rotation list at position 1.
+[15:58:07] QCDE02 (Toxjcity) added to map rotation list at position 2.
+[15:58:07] QCDE03 (Menelkir's domain) added to map rotation list at position 3.
+[15:58:07] QCDE04 (Bitterman's Revenge) added to map rotation list at position 4.
+[15:58:07] QCDE05 (Fortress in the Void) added to map rotation list at position 5.
+[15:58:07] QCDE06 (Vertical Vengeance) added to map rotation list at position 6.
+[15:58:07] QCDE07 (Temple of Retribution) added to map rotation list at position 7.
+[15:58:07] QCDE08 (Furious Heights) added to map rotation list at position 8.
+[15:58:07] QCDE09 (Lost World) added to map rotation list at position 9.
+[15:58:07] QCDE10 (Cure) added to map rotation list at position 10.
+[15:58:07] QCDE11 (Monsoon) added to map rotation list at position 11.
+[15:58:07] QCDE12 (Phobos Campgrounds) added to map rotation list at position 12.
+[15:58:07] QCDE13 (Sight) added to map rotation list at position 13.
+[15:58:07] QCDE14 (Stubborn) added to map rotation list at position 14.
+[15:58:07] QCDE15 (Chastity Belt) added to map rotation list at position 15.
+[15:58:07] QCDE16 (Sinister) added to map rotation list at position 16.
+[15:58:07] QCDE17 (Lockbox) added to map rotation list at position 17.
+[15:58:07] QCDE18 (Elder) added to map rotation list at position 18.
+[15:58:07] QCDE19 (Corrupted Station) added to map rotation list at position 19.
+[15:58:07] QCDE20 (Deck) added to map rotation list at position 20.
+[15:58:07] QCDE21 (Almost Lost) added to map rotation list at position 21.
+[15:58:07] QCDE22 (Sarnath) added to map rotation list at position 22.
+[15:58:07] QCDE23 (Lea) added to map rotation list at position 23.
+[15:58:07] QCDE24 (Vale of Pnath) added to map rotation list at position 24.
+[15:58:07] QCDE25 (Quarantine) added to map rotation list at position 25.
+[15:58:07] QCDE26 (Lh'owoken) added to map rotation list at position 26.
+[15:58:07] QCDE27 (Placebo Effect) added to map rotation list at position 27.
+[15:58:07] QCDE28 (Molten Falls) added to map rotation list at position 28.
+[15:58:07] QCDE29 (Blood Run) added to map rotation list at position 29.
+[15:58:07] QCDE30 (Gibel Complex) added to map rotation list at position 30.
+[15:58:07] QCDE31 (Excavation) added to map rotation list at position 31.
+[15:58:07] QCDE32 (Delirium) added to map rotation list at position 32.
+[15:58:07] QCDE33 (Silence) added to map rotation list at position 33.
+[15:58:07] QCDE34 (Zenith) added to map rotation list at position 34.
+[15:58:07] QCDE35 (The Edge) added to map rotation list at position 35.
+[15:58:07] QCDE36 (Fusillade) added to map rotation list at position 36.
+[15:58:07] QCDE37 (Dukiforged) added to map rotation list at position 37.
+[15:58:07] QCDE38 (Helix) added to map rotation list at position 38.
+[15:58:07] QCDE39 (Arcane Temple) added to map rotation list at position 39.
+[15:58:07] QCDE40 (Rankin) added to map rotation list at position 40.
+[15:58:07] QCDE41 (QWER) added to map rotation list at position 41.
+[15:58:07] QCDE42 (Mine Embrace) added to map rotation list at position 42.
+[15:58:07] QCDE43 (Temple of the Blood Serpants) added to map rotation list at position 43.
+[15:58:07] QCDE44 (Exile) added to map rotation list at position 44.
+[15:58:07] QCDE45 (Deck 17) added to map rotation list at position 45.
+[15:58:07] QCDE46 (Brought 2 doom) added to map rotation list at position 46.
+[15:58:07] QCDE47 (Claustrophobopolis) added to map rotation list at position 47.
+[15:58:07] QCDE48 (Mythic) added to map rotation list at position 48.
+[15:58:07] QCDE49 (Erase) added to map rotation list at position 49.
+[15:58:07] QCDE50 (Achilles) added to map rotation list at position 50.
+

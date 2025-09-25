@@ -12,6 +12,7 @@ namespace STaReX.DB.Abstract
 {
     public interface IDatabaseRepository<T> where T : IEntity
     {
-        Task<T?> GetByIdAsync(string url, DynamicParameters? parametes );
+        Task<T?> GetByIdAsync(string query, DynamicParameters? parametes);
+        Task<T?> InsertAsync(string query, DynamicParameters? parametes);
     }
 }

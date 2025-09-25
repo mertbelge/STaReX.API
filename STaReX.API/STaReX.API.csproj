@@ -15,4 +15,8 @@
     <ProjectReference Include="..\STaReX.HELPERS\STaReX.HELPERS.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\ZandronumLog\" />
+  </ItemGroup>
+
 </Project>

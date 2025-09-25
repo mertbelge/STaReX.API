@@ -2,6 +2,7 @@
 using Microsoft.Extensions.Options;
 using STaReX.BUSINESS.Abstract.IWeatherService;
 using STaReX.DB.Dtos;
+using STaReX.ENTITY.Dto;
 using STaReX.ENTITY.Models.Holidays;
 using STaReX.ENTITY.Models.Weather;
 using STaReX.HELPERS.Abstract;
@@ -26,7 +27,7 @@ namespace STaReX.BUSINESS.Concrete.WeatherService
             _helperOptions = options.Value;
         }
 
-        public async Task<WeatherResponse> GetBy(double latitude, double longitude)
+        public async Task<StatusResponse<WeatherResponse>> GetBy(double latitude, double longitude)
         {
             var keyword = _helperOptions.WeatherOptions.WEATHER_KEYWORD;
 
@@ -43,7 +44,7 @@ namespace STaReX.BUSINESS.Concrete.WeatherService
                 RelativeHumidity = result.current.relative_humidity_2m.ToString() + result.current_units.relative_humidity_2m,
             };
 
-            return response;
+            return StatusResponse <WeatherResponse>.Success(response);
 
         }
     }

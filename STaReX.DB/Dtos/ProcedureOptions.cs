@@ -10,6 +10,7 @@ namespace STaReX.DB.Dtos
     {
         public ConnectionTestingProcedure ConnectionTestingProcedure { get; set; } = null!;
         public HelpersAPIProcedure HelpersAPIProcedure { get; set; } = null!;
+        public QCDELogProcedure QCDELogProcedure { get; set; } = null!;
     }
 
     public class ConnectionTestingProcedure
@@ -20,5 +21,10 @@ namespace STaReX.DB.Dtos
     public class HelpersAPIProcedure
     {
         public string GET_BY_KEYWORD { get; set; } = null!;
+    }
+
+    public class QCDELogProcedure
+    {
+        public string INSERT { get; set; } = null!;
     }
 }

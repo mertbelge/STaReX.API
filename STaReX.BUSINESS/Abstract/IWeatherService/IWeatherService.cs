@@ -1,4 +1,5 @@
 ﻿using STaReX.ENTITY.Models.Weather;
+using STaReX.ENTITY.Dto;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,6 @@ namespace STaReX.BUSINESS.Abstract.IWeatherService
 {
     public interface IWeatherService
     {
-        Task<WeatherResponse> GetBy(double latitude, double longitude);
+        Task <StatusResponse<WeatherResponse>> GetBy(double latitude, double longitude);
     }
 }

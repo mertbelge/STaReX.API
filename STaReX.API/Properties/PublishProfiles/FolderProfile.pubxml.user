@@ -2,8 +2,8 @@
 <!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
 <Project>
   <PropertyGroup>
-    <_PublishTargetUrl>C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.API\bin\publish\</_PublishTargetUrl>
-    <History>True|2025-09-12T17:05:44.3604577Z||;</History>
+    <_PublishTargetUrl>C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.API\bin\publish\</_PublishTargetUrl>
+    <History>True|2025-09-25T12:48:40.9653444Z||;True|2025-09-12T20:05:44.3604577+03:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>
