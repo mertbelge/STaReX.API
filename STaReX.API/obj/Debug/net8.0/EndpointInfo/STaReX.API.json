@@ -29,6 +29,18 @@
         }
       }
     },
+    "/api/QCDELogReader/log-files-inset": {
+      "get": {
+        "tags": [
+          "QCDELogReader"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Weather/get-weather": {
       "get": {
         "tags": [

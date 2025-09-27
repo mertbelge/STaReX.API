@@ -23,7 +23,6 @@ namespace STaReX.API.Controllers.QCDELogReaderController
 
         public async Task<IActionResult> Insert()
         {
-
             var response = await _qcdeLogReaderService.Insert();
             return Ok(response);
         }

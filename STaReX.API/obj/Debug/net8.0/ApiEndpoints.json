@@ -20,6 +20,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "STaReX.API.Controllers.QCDELogReaderController.QCDELogReaderController",
+    "Method": "Insert",
+    "RelativePath": "api/QCDELogReader/log-files-inset",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "STaReX.API.Controllers.WeatherController.WeatherController",
     "Method": "GetBy",
     "RelativePath": "api/Weather/get-weather",

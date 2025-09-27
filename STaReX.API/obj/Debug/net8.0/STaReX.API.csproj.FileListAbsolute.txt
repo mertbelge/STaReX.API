@@ -271,3 +271,4 @@ C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.API\obj\Debug\net8.0\re
 C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.API\obj\Debug\net8.0\STaReX.API.pdb
 C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.API\obj\Debug\net8.0\STaReX.API.genruntimeconfig.cache
 C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.API\obj\Debug\net8.0\ref\STaReX.API.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.API\bin\Debug\net8.0\STaReX.API.staticwebassets.runtime.json

@@ -1,4 +1,4 @@
-using STaReX.BUSINESS.Abstract.IConnectionTestingService;
+﻿using STaReX.BUSINESS.Abstract.IConnectionTestingService;
 using STaReX.BUSINESS.Abstract.IHolidayService;
 using STaReX.BUSINESS.Abstract.IQCDELogReaderService;
 using STaReX.BUSINESS.Abstract.IWeatherService;
@@ -46,9 +46,22 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
+#region Custom UseStaticFiles Method
+//app.Use(async (context, next) =>
+//{
+//    if (context.Request.Path.StartsWithSegments("/ZandronumLog"))
+//    {
+//        context.Response.StatusCode = StatusCodes.Status403Forbidden;
+//        await context.Response.WriteAsync("Erişim yasak!");
+//        return;
+//    }
 
+//    await next();
+//});
+
+//app.UseStaticFiles();
+#endregion
 app.MapControllers();
 
 app.Run();
