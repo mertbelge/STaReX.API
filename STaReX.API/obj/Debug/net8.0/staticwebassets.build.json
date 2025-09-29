@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "l3+xxNKU0Bol9DD4B5NIUYttEBcJWuHoSkdPVyGqVG0=",
+  "Hash": "dhlEOHbvr9JO4Wdi/UHTejrxeTm4ymd6DW8DVGqPgpo=",
   "Source": "STaReX.API",
   "BasePath": "_content/STaReX.API",
   "Mode": "Default",
@@ -17,33 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\ZandronumLog\\Copy.log",
+      "Identity": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\private\\ZandronumLog\\Copy.log",
       "SourceId": "STaReX.API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\",
       "BasePath": "_content/STaReX.API",
-      "RelativePath": "ZandronumLog/Copy#[.{fingerprint}]?.log",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "5ipweew5fc",
-      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ZandronumLog\\Copy.log"
-    },
-    {
-      "Identity": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\ZandronumLog\\Q-Zandronum__2025_09_24-15_57_42.log",
-      "SourceId": "STaReX.API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\",
-      "BasePath": "_content/STaReX.API",
-      "RelativePath": "ZandronumLog/Q-Zandronum__2025_09_24-15_57_42#[.{fingerprint}]?.log",
+      "RelativePath": "private/ZandronumLog/Copy#[.{fingerprint}]?.log",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -56,13 +35,55 @@
       "Integrity": "Go040MRomYLFSXii77i7A+SUROjtmt7YlMkaZPh+rlw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ZandronumLog\\Q-Zandronum__2025_09_24-15_57_42.log"
+      "OriginalItemSpec": "wwwroot\\private\\ZandronumLog\\Copy.log"
+    },
+    {
+      "Identity": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\private\\ZandronumLog\\Q-Zandronum__2025_09_24-15_57_42.log",
+      "SourceId": "STaReX.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\",
+      "BasePath": "_content/STaReX.API",
+      "RelativePath": "private/ZandronumLog/Q-Zandronum__2025_09_24-15_57_42#[.{fingerprint}]?.log",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q3uask9bh2",
+      "Integrity": "Go040MRomYLFSXii77i7A+SUROjtmt7YlMkaZPh+rlw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\private\\ZandronumLog\\Q-Zandronum__2025_09_24-15_57_42.log"
+    },
+    {
+      "Identity": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\private\\ZandronumLog\\Q-Zandronum__2025_09_25-15_57_40.log",
+      "SourceId": "STaReX.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\",
+      "BasePath": "_content/STaReX.API",
+      "RelativePath": "private/ZandronumLog/Q-Zandronum__2025_09_25-15_57_40#[.{fingerprint}]?.log",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7ml2gdvbrt",
+      "Integrity": "7+1kMq2rm68P9K3KAHnSVcx/szLPrJuYj9Hf1ulIBF8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\private\\ZandronumLog\\Q-Zandronum__2025_09_25-15_57_40.log"
     }
   ],
   "Endpoints": [
     {
-      "Route": "ZandronumLog/Copy.5ipweew5fc.log",
-      "AssetFile": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\ZandronumLog\\Copy.log",
+      "Route": "private/ZandronumLog/Copy.log",
+      "AssetFile": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\private\\ZandronumLog\\Copy.log",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71,7 +92,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "0"
+          "Value": "5745"
         },
         {
           "Name": "Content-Type",
@@ -79,56 +100,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "\"Go040MRomYLFSXii77i7A+SUROjtmt7YlMkaZPh+rlw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 25 Sep 2025 15:03:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5ipweew5fc"
-        },
-        {
-          "Name": "label",
-          "Value": "ZandronumLog/Copy.log"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
-        }
-      ]
-    },
-    {
-      "Route": "ZandronumLog/Copy.log",
-      "AssetFile": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\ZandronumLog\\Copy.log",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "0"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 25 Sep 2025 15:03:32 GMT"
+          "Value": "Mon, 29 Sep 2025 09:39:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -138,13 +114,58 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+          "Value": "sha256-Go040MRomYLFSXii77i7A+SUROjtmt7YlMkaZPh+rlw="
         }
       ]
     },
     {
-      "Route": "ZandronumLog/Q-Zandronum__2025_09_24-15_57_42.log",
-      "AssetFile": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\ZandronumLog\\Q-Zandronum__2025_09_24-15_57_42.log",
+      "Route": "private/ZandronumLog/Copy.q3uask9bh2.log",
+      "AssetFile": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\private\\ZandronumLog\\Copy.log",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Go040MRomYLFSXii77i7A+SUROjtmt7YlMkaZPh+rlw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 29 Sep 2025 09:39:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q3uask9bh2"
+        },
+        {
+          "Name": "label",
+          "Value": "private/ZandronumLog/Copy.log"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Go040MRomYLFSXii77i7A+SUROjtmt7YlMkaZPh+rlw="
+        }
+      ]
+    },
+    {
+      "Route": "private/ZandronumLog/Q-Zandronum__2025_09_24-15_57_42.log",
+      "AssetFile": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\private\\ZandronumLog\\Q-Zandronum__2025_09_24-15_57_42.log",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -180,8 +201,8 @@
       ]
     },
     {
-      "Route": "ZandronumLog/Q-Zandronum__2025_09_24-15_57_42.q3uask9bh2.log",
-      "AssetFile": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\ZandronumLog\\Q-Zandronum__2025_09_24-15_57_42.log",
+      "Route": "private/ZandronumLog/Q-Zandronum__2025_09_24-15_57_42.q3uask9bh2.log",
+      "AssetFile": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\private\\ZandronumLog\\Q-Zandronum__2025_09_24-15_57_42.log",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -216,11 +237,93 @@
         },
         {
           "Name": "label",
-          "Value": "ZandronumLog/Q-Zandronum__2025_09_24-15_57_42.log"
+          "Value": "private/ZandronumLog/Q-Zandronum__2025_09_24-15_57_42.log"
         },
         {
           "Name": "integrity",
           "Value": "sha256-Go040MRomYLFSXii77i7A+SUROjtmt7YlMkaZPh+rlw="
+        }
+      ]
+    },
+    {
+      "Route": "private/ZandronumLog/Q-Zandronum__2025_09_25-15_57_40.7ml2gdvbrt.log",
+      "AssetFile": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\private\\ZandronumLog\\Q-Zandronum__2025_09_25-15_57_40.log",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17304"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7+1kMq2rm68P9K3KAHnSVcx/szLPrJuYj9Hf1ulIBF8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Sep 2025 18:50:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7ml2gdvbrt"
+        },
+        {
+          "Name": "label",
+          "Value": "private/ZandronumLog/Q-Zandronum__2025_09_25-15_57_40.log"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7+1kMq2rm68P9K3KAHnSVcx/szLPrJuYj9Hf1ulIBF8="
+        }
+      ]
+    },
+    {
+      "Route": "private/ZandronumLog/Q-Zandronum__2025_09_25-15_57_40.log",
+      "AssetFile": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\private\\ZandronumLog\\Q-Zandronum__2025_09_25-15_57_40.log",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17304"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7+1kMq2rm68P9K3KAHnSVcx/szLPrJuYj9Hf1ulIBF8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Sep 2025 18:50:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7+1kMq2rm68P9K3KAHnSVcx/szLPrJuYj9Hf1ulIBF8="
         }
       ]
     }

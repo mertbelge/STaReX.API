@@ -47,21 +47,20 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseAuthorization();
-#region Custom UseStaticFiles Method
-//app.Use(async (context, next) =>
-//{
-//    if (context.Request.Path.StartsWithSegments("/ZandronumLog"))
-//    {
-//        context.Response.StatusCode = StatusCodes.Status403Forbidden;
-//        await context.Response.WriteAsync("Erişim yasak!");
-//        return;
-//    }
 
-//    await next();
-//});
+app.Use(async (context, next) =>
+{
+    if (context.Request.Path.StartsWithSegments("/private"))
+    {
+        context.Response.StatusCode = StatusCodes.Status403Forbidden;
+        await context.Response.WriteAsync("Unauthorized!");
+        return;
+    }
 
-//app.UseStaticFiles();
-#endregion
+    await next();
+});
+
+app.UseStaticFiles();
 app.MapControllers();
 
 app.Run();

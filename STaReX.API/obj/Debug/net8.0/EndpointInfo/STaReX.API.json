@@ -29,8 +29,8 @@
         }
       }
     },
-    "/api/QCDELogReader/log-files-inset": {
-      "get": {
+    "/api/QCDELogReader/log-files-insert": {
+      "post": {
         "tags": [
           "QCDELogReader"
         ],

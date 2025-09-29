@@ -22,8 +22,8 @@
   {
     "ContainingType": "STaReX.API.Controllers.QCDELogReaderController.QCDELogReaderController",
     "Method": "Insert",
-    "RelativePath": "api/QCDELogReader/log-files-inset",
-    "HttpMethod": "GET",
+    "RelativePath": "api/QCDELogReader/log-files-insert",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [],

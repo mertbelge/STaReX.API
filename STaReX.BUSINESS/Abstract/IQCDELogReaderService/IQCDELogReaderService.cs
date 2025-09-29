@@ -9,6 +9,6 @@ namespace STaReX.BUSINESS.Abstract.IQCDELogReaderService
 {
     public interface IQCDELogReaderService
     {
-        Task<StatusResponse<NoData>> Insert();
+        Task<StatusResponse<NoData>> Insert(string[] context);
     }
 }

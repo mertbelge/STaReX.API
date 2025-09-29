@@ -17,21 +17,25 @@ namespace STaReX.BUSINESS.Concrete.QCDELogReaderService
             _procedureOptions = options.Value;
         }
 
-        public async Task<StatusResponse<NoData>> Insert()
+        public async Task<StatusResponse<NoData>> Insert(string[] context)
         {
+            int total_successes = 0;
             var procedure = _procedureOptions.QCDELogProcedure.INSERT;
-            DynamicParameters parameters = new DynamicParameters();
-            var result = await _repository.InsertAsync(procedure, parameters);
 
-            if (result.Success == true)
-            {
-                return StatusResponse<NoData>.Success();
+            for (int i = 0; i < context.Length; i++)
+            { 
+
+                DynamicParameters parameters = new DynamicParameters();
+                parameters.Add("Context", context[i]);
+                var result = await _repository.InsertAsync(procedure, parameters);
+
+                if (result.Success == true) { total_successes++;  }
+
             }
 
-            else
-            {
-                return StatusResponse<NoData>.Fail(result.Message);
-            }
+            if (total_successes == context.Length){ return StatusResponse<NoData>.Success(); }
+            else{ return StatusResponse<NoData>.Fail("Context Length And Total Successes Are Not Equal!"); }
+
         }
     }
 }
