@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\private\\ZandronumLog\\Copy.log",
+      "PackagePath": "staticwebassets\\private\\ZandronumLog\\Copy.log"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.STaReX.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.STaReX.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.STaReX.API.props",
+      "PackagePath": "build\\STaReX.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.STaReX.API.props",
+      "PackagePath": "buildMultiTargeting\\STaReX.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.STaReX.API.props",
+      "PackagePath": "buildTransitive\\STaReX.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
