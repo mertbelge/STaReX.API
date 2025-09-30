@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("STaReX.ENTITY")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea0c337013013df9eca3003baf89a8aa55d0d01e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+614e10c101e388fe428fd4fdddbdde8fe15c4149")]
 [assembly: System.Reflection.AssemblyProductAttribute("STaReX.ENTITY")]
 [assembly: System.Reflection.AssemblyTitleAttribute("STaReX.ENTITY")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

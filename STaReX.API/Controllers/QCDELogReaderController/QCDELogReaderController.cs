@@ -29,6 +29,8 @@ namespace STaReX.API.Controllers.QCDELogReaderController
         public async Task<IActionResult> Insert()
         {
 
+            string content_original;
+
             string[] files = Directory.GetFiles(Path.Combine(_env.WebRootPath, "private", "ZandronumLog"));
             string filename;
             string apply_filename = "";
@@ -60,7 +62,12 @@ namespace STaReX.API.Controllers.QCDELogReaderController
             var path_original = Path.Combine(_env.WebRootPath, "private", "ZandronumLog", apply_filename);
             var path_copy = Path.Combine(_env.WebRootPath, "private", "ZandronumLog", "Copy.log");
 
-            string content_original = System.IO.File.ReadAllText(path_original);
+            using (var fs = new FileStream(path_original, FileMode.Open, FileAccess.Read, FileShare.ReadWrite))
+            using (var reader = new StreamReader(fs))
+            {
+                content_original = await reader.ReadToEndAsync();
+            }
+
             string content_copy = System.IO.File.ReadAllText(path_copy);
 
             if (content_copy.Length > 0)

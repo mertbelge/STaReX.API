@@ -1,4 +1,5 @@
-﻿using STaReX.BUSINESS.Abstract.IConnectionTestingService;
+﻿using STaReX.API.Middleware;
+using STaReX.BUSINESS.Abstract.IConnectionTestingService;
 using STaReX.BUSINESS.Abstract.IHolidayService;
 using STaReX.BUSINESS.Abstract.IQCDELogReaderService;
 using STaReX.BUSINESS.Abstract.IWeatherService;
@@ -45,20 +46,11 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseMiddleware<FileMiddleware>();
+app.UseMiddleware<ExceptionMiddleware>();
+
 app.UseHttpsRedirection();
 app.UseAuthorization();
-
-app.Use(async (context, next) =>
-{
-    if (context.Request.Path.StartsWithSegments("/private"))
-    {
-        context.Response.StatusCode = StatusCodes.Status403Forbidden;
-        await context.Response.WriteAsync("Unauthorized!");
-        return;
-    }
-
-    await next();
-});
 
 app.UseStaticFiles();
 app.MapControllers();

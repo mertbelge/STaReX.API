@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "z0Ylc/2L842oXTOg/yeC/Bv4hPWPbhN9AnWufWcf2tQ=",
+  "Hash": "CZMsBaMqbJ18WSTUduAb9HX1Ugwhu/LYHqqRt1YtuxM=",
   "Source": "STaReX.API",
   "BasePath": "_content/STaReX.API",
   "Mode": "Default",
@@ -38,12 +38,12 @@
       "OriginalItemSpec": "wwwroot\\private\\ZandronumLog\\Copy.log"
     },
     {
-      "Identity": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\private\\ZandronumLog\\Q-Zandronum__2025_09_29-13_29_16.log",
+      "Identity": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\private\\ZandronumLog\\Q-Zandronum__2025_09_30-10_36_38.log",
       "SourceId": "STaReX.API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\",
       "BasePath": "_content/STaReX.API",
-      "RelativePath": "private/ZandronumLog/Q-Zandronum__2025_09_29-13_29_16#[.{fingerprint}]?.log",
+      "RelativePath": "private/ZandronumLog/Q-Zandronum__2025_09_30-10_36_38#[.{fingerprint}]?.log",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -52,11 +52,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "w360vzy0c8",
-      "Integrity": "7Cl7deoldFEK7fJJII0/ezG12B2PIBNiuOvWlD2Eh8M=",
+      "Fingerprint": "cdrdv8qorv",
+      "Integrity": "0AqufJBVNAMHsbGchnrDfbvzp5UcHcuk17FyIdQgZWc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\private\\ZandronumLog\\Q-Zandronum__2025_09_29-13_29_16.log"
+      "OriginalItemSpec": "wwwroot\\private\\ZandronumLog\\Q-Zandronum__2025_09_30-10_36_38.log"
     }
   ],
   "Endpoints": [
@@ -83,7 +83,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 12:30:07 GMT"
+          "Value": "Mon, 29 Sep 2025 12:43:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -128,7 +128,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 12:30:07 GMT"
+          "Value": "Mon, 29 Sep 2025 12:43:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -143,8 +143,8 @@
       ]
     },
     {
-      "Route": "private/ZandronumLog/Q-Zandronum__2025_09_29-13_29_16.log",
-      "AssetFile": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\private\\ZandronumLog\\Q-Zandronum__2025_09_29-13_29_16.log",
+      "Route": "private/ZandronumLog/Q-Zandronum__2025_09_30-10_36_38.cdrdv8qorv.log",
+      "AssetFile": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\private\\ZandronumLog\\Q-Zandronum__2025_09_30-10_36_38.log",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -153,7 +153,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6411"
+          "Value": "6452"
         },
         {
           "Name": "Content-Type",
@@ -161,48 +161,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7Cl7deoldFEK7fJJII0/ezG12B2PIBNiuOvWlD2Eh8M=\""
+          "Value": "\"0AqufJBVNAMHsbGchnrDfbvzp5UcHcuk17FyIdQgZWc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 10:29:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-7Cl7deoldFEK7fJJII0/ezG12B2PIBNiuOvWlD2Eh8M="
-        }
-      ]
-    },
-    {
-      "Route": "private/ZandronumLog/Q-Zandronum__2025_09_29-13_29_16.w360vzy0c8.log",
-      "AssetFile": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\private\\ZandronumLog\\Q-Zandronum__2025_09_29-13_29_16.log",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6411"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"7Cl7deoldFEK7fJJII0/ezG12B2PIBNiuOvWlD2Eh8M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 10:29:42 GMT"
+          "Value": "Tue, 30 Sep 2025 07:37:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -212,15 +175,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "w360vzy0c8"
+          "Value": "cdrdv8qorv"
         },
         {
           "Name": "label",
-          "Value": "private/ZandronumLog/Q-Zandronum__2025_09_29-13_29_16.log"
+          "Value": "private/ZandronumLog/Q-Zandronum__2025_09_30-10_36_38.log"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7Cl7deoldFEK7fJJII0/ezG12B2PIBNiuOvWlD2Eh8M="
+          "Value": "sha256-0AqufJBVNAMHsbGchnrDfbvzp5UcHcuk17FyIdQgZWc="
+        }
+      ]
+    },
+    {
+      "Route": "private/ZandronumLog/Q-Zandronum__2025_09_30-10_36_38.log",
+      "AssetFile": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\private\\ZandronumLog\\Q-Zandronum__2025_09_30-10_36_38.log",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6452"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0AqufJBVNAMHsbGchnrDfbvzp5UcHcuk17FyIdQgZWc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Sep 2025 07:37:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0AqufJBVNAMHsbGchnrDfbvzp5UcHcuk17FyIdQgZWc="
         }
       ]
     }
