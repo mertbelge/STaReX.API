@@ -29,7 +29,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 12:43:03 GMT"
+          "Value": "Tue, 30 Sep 2025 08:28:12 GMT"
         }
       ],
       "EndpointProperties": [
@@ -74,95 +74,13 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 12:43:03 GMT"
+          "Value": "Tue, 30 Sep 2025 08:28:12 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
           "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
-        }
-      ]
-    },
-    {
-      "Route": "private/ZandronumLog/Q-Zandronum__2025_09_30-10_36_38.cdrdv8qorv.log",
-      "AssetFile": "private/ZandronumLog/Q-Zandronum__2025_09_30-10_36_38.log",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6452"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0AqufJBVNAMHsbGchnrDfbvzp5UcHcuk17FyIdQgZWc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 30 Sep 2025 07:37:07 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "cdrdv8qorv"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-0AqufJBVNAMHsbGchnrDfbvzp5UcHcuk17FyIdQgZWc="
-        },
-        {
-          "Name": "label",
-          "Value": "private/ZandronumLog/Q-Zandronum__2025_09_30-10_36_38.log"
-        }
-      ]
-    },
-    {
-      "Route": "private/ZandronumLog/Q-Zandronum__2025_09_30-10_36_38.log",
-      "AssetFile": "private/ZandronumLog/Q-Zandronum__2025_09_30-10_36_38.log",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6452"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0AqufJBVNAMHsbGchnrDfbvzp5UcHcuk17FyIdQgZWc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 30 Sep 2025 07:37:07 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0AqufJBVNAMHsbGchnrDfbvzp5UcHcuk17FyIdQgZWc="
         }
       ]
     }

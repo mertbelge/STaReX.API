@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Jk1jVPRcx7Wh/p0SwjY3O/3P7kC7vl7yhN18KllXNFA=",
+  "Hash": "Ui1orpnZywfTDI/W2vr7hWEL8TP8qP+Hdih1u6khMS0=",
   "Source": "STaReX.API",
   "BasePath": "_content/STaReX.API",
   "Mode": "Default",
@@ -62,7 +62,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 30 Sep 2025 08:28:12 GMT"
+          "Value": "Wed, 01 Oct 2025 07:49:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -107,7 +107,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 30 Sep 2025 08:28:12 GMT"
+          "Value": "Wed, 01 Oct 2025 07:49:06 GMT"
         },
         {
           "Name": "Cache-Control",

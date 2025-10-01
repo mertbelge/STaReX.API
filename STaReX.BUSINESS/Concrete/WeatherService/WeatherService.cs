@@ -35,7 +35,7 @@ namespace STaReX.BUSINESS.Concrete.WeatherService
             parameters.Add("latitude", latitude);
             parameters.Add("longitude", longitude);
 
-            var result = await _repository.GetAllAsync(keyword , parameters);
+            var result = await _repository.GetAllAsyncFromAPI(keyword , parameters);
 
             WeatherResponse response = new WeatherResponse
             {

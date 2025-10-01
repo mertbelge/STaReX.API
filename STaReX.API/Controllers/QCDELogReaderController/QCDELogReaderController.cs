@@ -5,6 +5,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.SqlServer.Server;
 using STaReX.BUSINESS.Abstract.IQCDELogReaderService;
 using STaReX.ENTITY.Dto;
+using STaReX.ENTITY.Models.Holidays;
+using STaReX.HELPERS.Abstract;
 
 namespace STaReX.API.Controllers.QCDELogReaderController
 {
@@ -17,71 +19,36 @@ namespace STaReX.API.Controllers.QCDELogReaderController
 
         private readonly IQCDELogReaderService _qcdeLogReaderService;
         private readonly IWebHostEnvironment _env;
+        private readonly IHelperRepository<NoData> _repository;
 
-        public QCDELogReaderController(IQCDELogReaderService qcdeLogReaderService, IWebHostEnvironment env)
+        public QCDELogReaderController(IQCDELogReaderService qcdeLogReaderService, IWebHostEnvironment env, IHelperRepository<NoData> repository)
         { 
             _qcdeLogReaderService = qcdeLogReaderService;
             _env = env;
+            _repository = repository;
         }
 
         [HttpPost("log-files-insert")]
 
         public async Task<IActionResult> Insert()
         {
-
-            string content_original;
-
             string[] files = Directory.GetFiles(Path.Combine(_env.WebRootPath, "private", "ZandronumLog"));
-            string filename;
-            string apply_filename = "";
-            string converted_filename;
-            string date_format = "yyyy_MM_dd-HH_mm_ss";
-            DateTime date = new DateTime(2024, 1, 1);
-            DateTime converted_date = new DateTime();
 
-            foreach (var file in files)
-            {
-            
-                filename = Path.GetFileName(file);
-                converted_filename = filename.Replace("Q-Zandronum__", "");
-                converted_filename = converted_filename.Replace(".log", "");
+            string filename = _repository.GetFileNameFromFolder(files);
 
-                if (converted_filename != "Copy")
-                {
-                    converted_date = DateTime.ParseExact(converted_filename, date_format, CultureInfo.InvariantCulture);
-
-                    if (converted_date > date)
-                    {
-                        apply_filename = filename;
-                        date = converted_date;
-                    }
-                }
-
-            }
-
-            var path_original = Path.Combine(_env.WebRootPath, "private", "ZandronumLog", apply_filename);
+            var path_original = Path.Combine(_env.WebRootPath, "private", "ZandronumLog", filename);
             var path_copy = Path.Combine(_env.WebRootPath, "private", "ZandronumLog", "Copy.log");
 
-            using (var fs = new FileStream(path_original, FileMode.Open, FileAccess.Read, FileShare.ReadWrite))
-            using (var reader = new StreamReader(fs))
+            string content_value = _repository.GetContextReplacedByCopy(path_copy, path_original).Result;
+            string full_content = _repository.GetContext(path_original).Result;
+
+            if (content_value.Length > 0)
             {
-                content_original = await reader.ReadToEndAsync();
-            }
-
-            string content_copy = System.IO.File.ReadAllText(path_copy);
-
-            if (content_copy.Length > 0)
-            { 
-                content_original = content_original.Replace(content_copy, "");
-            }
-
-            if (content_original.Length > 0)
-            {
-                string[] content = content_original.Split(new[] { "\r\n", "\n" }, StringSplitOptions.None);
+                string[] content = content_value.Split(new[] { "\r\n", "\n" }, StringSplitOptions.None);
 
                 var response = await _qcdeLogReaderService.Insert(content);
 
-                System.IO.File.WriteAllText(path_copy, content_original);
+                System.IO.File.WriteAllText(path_copy, full_content);
 
                 return Ok(response);            
             }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CZMsBaMqbJ18WSTUduAb9HX1Ugwhu/LYHqqRt1YtuxM=",
+  "Hash": "jWTA61ugaWqNOW9YPi2NbbLQo9bNKD6thMBhXf5DT0o=",
   "Source": "STaReX.API",
   "BasePath": "_content/STaReX.API",
   "Mode": "Default",
@@ -36,27 +36,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\private\\ZandronumLog\\Copy.log"
-    },
-    {
-      "Identity": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\private\\ZandronumLog\\Q-Zandronum__2025_09_30-10_36_38.log",
-      "SourceId": "STaReX.API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\",
-      "BasePath": "_content/STaReX.API",
-      "RelativePath": "private/ZandronumLog/Q-Zandronum__2025_09_30-10_36_38#[.{fingerprint}]?.log",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "cdrdv8qorv",
-      "Integrity": "0AqufJBVNAMHsbGchnrDfbvzp5UcHcuk17FyIdQgZWc=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\private\\ZandronumLog\\Q-Zandronum__2025_09_30-10_36_38.log"
     }
   ],
   "Endpoints": [
@@ -83,7 +62,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 12:43:03 GMT"
+          "Value": "Tue, 30 Sep 2025 08:28:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -128,7 +107,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 12:43:03 GMT"
+          "Value": "Tue, 30 Sep 2025 08:28:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -139,88 +118,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
-        }
-      ]
-    },
-    {
-      "Route": "private/ZandronumLog/Q-Zandronum__2025_09_30-10_36_38.cdrdv8qorv.log",
-      "AssetFile": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\private\\ZandronumLog\\Q-Zandronum__2025_09_30-10_36_38.log",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6452"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0AqufJBVNAMHsbGchnrDfbvzp5UcHcuk17FyIdQgZWc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 30 Sep 2025 07:37:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "cdrdv8qorv"
-        },
-        {
-          "Name": "label",
-          "Value": "private/ZandronumLog/Q-Zandronum__2025_09_30-10_36_38.log"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-0AqufJBVNAMHsbGchnrDfbvzp5UcHcuk17FyIdQgZWc="
-        }
-      ]
-    },
-    {
-      "Route": "private/ZandronumLog/Q-Zandronum__2025_09_30-10_36_38.log",
-      "AssetFile": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\private\\ZandronumLog\\Q-Zandronum__2025_09_30-10_36_38.log",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6452"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0AqufJBVNAMHsbGchnrDfbvzp5UcHcuk17FyIdQgZWc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 30 Sep 2025 07:37:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0AqufJBVNAMHsbGchnrDfbvzp5UcHcuk17FyIdQgZWc="
         }
       ]
     }

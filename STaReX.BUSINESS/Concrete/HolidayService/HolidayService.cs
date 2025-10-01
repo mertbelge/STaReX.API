@@ -30,7 +30,7 @@ namespace STaReX.BUSINESS.Concrete.HolidayService
         {
             var keyword = _helperOptions.HolidayOptions.HOLIDAY_KEYWORD;
 
-            var result = await _repository.GetAllAsync(keyword, null);
+            var result = await _repository.GetAllAsyncFromAPI(keyword, null);
 
             IEnumerable<HolidayResponse> response = result.resmitatiller.Select(x => new HolidayResponse
             {
