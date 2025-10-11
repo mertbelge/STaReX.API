@@ -34,6 +34,37 @@
         "tags": [
           "QCDELogReader"
         ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AgentKeyword"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AgentKeyword"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AgentKeyword"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/QCDELogReader/get-qcde-server-info-list": {
+      "get": {
+        "tags": [
+          "QCDELogReader"
+        ],
         "responses": {
           "200": {
             "description": "OK"
@@ -72,5 +103,18 @@
       }
     }
   },
-  "components": { }
+  "components": {
+    "schemas": {
+      "AgentKeyword": {
+        "type": "object",
+        "properties": {
+          "agentKey": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
 }

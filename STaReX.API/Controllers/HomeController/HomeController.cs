@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using STaReX.BUSINESS.Abstract.IConnectionTestingService;
 
 namespace STaReX.API.Controllers.HomeController
@@ -16,6 +17,7 @@ namespace STaReX.API.Controllers.HomeController
         }
 
         [HttpGet("connection-testing")]
+        [AllowAnonymous]
         public async Task<IActionResult> GetBy()
         {
 

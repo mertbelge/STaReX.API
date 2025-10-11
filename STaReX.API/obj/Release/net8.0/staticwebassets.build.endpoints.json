@@ -3,51 +3,6 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
-      "Route": "private/ZandronumLog/Copy.5ipweew5fc.log",
-      "AssetFile": "private/ZandronumLog/Copy.log",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "0"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 07:49:06 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5ipweew5fc"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
-        },
-        {
-          "Name": "label",
-          "Value": "private/ZandronumLog/Copy.log"
-        }
-      ]
-    },
-    {
       "Route": "private/ZandronumLog/Copy.log",
       "AssetFile": "private/ZandronumLog/Copy.log",
       "Selectors": [],
@@ -62,7 +17,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "0"
+          "Value": "175215"
         },
         {
           "Name": "Content-Type",
@@ -70,17 +25,144 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "\"OtEozx+/yu5/xGq38qcW6bpFdXLlXuBczJmsOtu/5s8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 07:49:06 GMT"
+          "Value": "Thu, 09 Oct 2025 04:19:01 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+          "Value": "sha256-OtEozx+/yu5/xGq38qcW6bpFdXLlXuBczJmsOtu/5s8="
+        }
+      ]
+    },
+    {
+      "Route": "private/ZandronumLog/Copy.yuifoz0lfq.log",
+      "AssetFile": "private/ZandronumLog/Copy.log",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175215"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OtEozx+/yu5/xGq38qcW6bpFdXLlXuBczJmsOtu/5s8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 04:19:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yuifoz0lfq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OtEozx+/yu5/xGq38qcW6bpFdXLlXuBczJmsOtu/5s8="
+        },
+        {
+          "Name": "label",
+          "Value": "private/ZandronumLog/Copy.log"
+        }
+      ]
+    },
+    {
+      "Route": "private/ZandronumLog/Q-Zandronum__2025_10_01-10_51_37.log",
+      "AssetFile": "private/ZandronumLog/Q-Zandronum__2025_10_01-10_51_37.log",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175215"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OtEozx+/yu5/xGq38qcW6bpFdXLlXuBczJmsOtu/5s8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 04:18:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OtEozx+/yu5/xGq38qcW6bpFdXLlXuBczJmsOtu/5s8="
+        }
+      ]
+    },
+    {
+      "Route": "private/ZandronumLog/Q-Zandronum__2025_10_01-10_51_37.yuifoz0lfq.log",
+      "AssetFile": "private/ZandronumLog/Q-Zandronum__2025_10_01-10_51_37.log",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175215"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OtEozx+/yu5/xGq38qcW6bpFdXLlXuBczJmsOtu/5s8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 04:18:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yuifoz0lfq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OtEozx+/yu5/xGq38qcW6bpFdXLlXuBczJmsOtu/5s8="
+        },
+        {
+          "Name": "label",
+          "Value": "private/ZandronumLog/Q-Zandronum__2025_10_01-10_51_37.log"
         }
       ]
     }

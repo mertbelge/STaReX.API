@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("STaReX.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+778c2b97379e033b9bf11db6daa162c6a2d68eda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08d951874e2ae7335f8789db36df06c74e243746")]
 [assembly: System.Reflection.AssemblyProductAttribute("STaReX.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("STaReX.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

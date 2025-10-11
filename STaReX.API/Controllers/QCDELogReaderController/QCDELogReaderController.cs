@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.SqlServer.Server;
 using STaReX.BUSINESS.Abstract.IQCDELogReaderService;
 using STaReX.ENTITY.Dto;
+using STaReX.ENTITY.Models.Database;
 using STaReX.ENTITY.Models.Holidays;
 using STaReX.HELPERS.Abstract;
 
@@ -29,8 +30,7 @@ namespace STaReX.API.Controllers.QCDELogReaderController
         }
 
         [HttpPost("log-files-insert")]
-
-        public async Task<IActionResult> Insert()
+        public async Task<IActionResult> Insert(AgentKeyword agentKeyword)
         {
             string[] files = Directory.GetFiles(Path.Combine(_env.WebRootPath, "private", "ZandronumLog"));
 
@@ -46,7 +46,7 @@ namespace STaReX.API.Controllers.QCDELogReaderController
             {
                 string[] content = content_value.Split(new[] { "\r\n", "\n" }, StringSplitOptions.None);
 
-                var response = await _qcdeLogReaderService.Insert(content);
+                var response = await _qcdeLogReaderService.Insert(agentKeyword.agentKey, content);
 
                 System.IO.File.WriteAllText(path_copy, full_content);
 
@@ -57,6 +57,15 @@ namespace STaReX.API.Controllers.QCDELogReaderController
             {
                 return Ok(StatusResponse<NoData>.Success());
             }
+        }
+
+        [HttpGet("get-qcde-server-info-list")]
+        public async Task<IActionResult> GetList()
+        {
+
+            var response = await _qcdeLogReaderService.GetList();
+            return Ok(response);
+        
         }
     }
 }

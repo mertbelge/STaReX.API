@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\private\\ZandronumLog\\Copy.log"
     },
     {
+      "Id": "C:\\Users\\Mert BELGE\\Desktop\\STaReX.API\\STaReX.API\\STaReX.API\\wwwroot\\private\\ZandronumLog\\Q-Zandronum__2025_10_01-10_51_37.log",
+      "PackagePath": "staticwebassets\\private\\ZandronumLog\\Q-Zandronum__2025_10_01-10_51_37.log"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.STaReX.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

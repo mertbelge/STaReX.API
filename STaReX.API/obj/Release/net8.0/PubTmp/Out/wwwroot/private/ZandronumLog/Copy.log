@@ -1,0 +1,2114 @@
+[10:51:37] Log started: C:/vHost/STaReX.API/wwwroot/private/ZandronumLog/Q-Zandronum__2025_10_01-10_51_37.log, Wed Oct  1 10:51:37 2025
+[10:51:37] deathmatch will be changed for next game.
+[10:51:37] ParseTeamInfo: Load team definitions.
+[10:51:39] I_Init: Setting up machine state.
+[10:51:39] CPU Speed: 2799 MHz
+[10:51:39] CPU Vendor ID: GenuineIntel
+[10:51:39]   Name: Intel(R) Xeon(R) CPU X5660 @ 2.80GHz
+[10:51:39]   Family 6, Model 44, Stepping 2
+[10:51:39]   Features: MMX SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2
+[10:51:39] Using in-memory database. The database will not be saved on exit.
+[10:51:39] IPFileParser::parseIPList: could not open adminlist.txt: No such file or directory
+[10:51:39] IPFileParser::parseIPList: could not open whitelist.txt: No such file or directory
+[10:51:39] IPFileParser::parseIPList: could not open banlist.txt: No such file or directory
+[10:51:39] S_Init: Setting up sound.
+[10:51:39] ST_Init: Init startup screen.
+[10:51:39] Checking cmd-line parameters...
+[10:51:39] S_InitData: Load sound definitions.
+[10:51:40] G_ParseMapInfo: Load map definitions.
+[10:51:40] Texman.Init: Init texture manager.
+[10:51:51] LoadActors: Load actor definitions.
+[10:51:51] R_Init: Init Doom refresh subsystem.
+[10:51:52] DecalLibrary: Load decals.
+[10:51:52] PWO_Init: Initializing preferred weapon order.
+[10:51:52] M_Init: Init menus.
+[10:51:53] P_Init: Init Playloop state.
+[10:51:54] ParseSBarInfo: Loading default status bar definition.
+[10:51:54] ParseSBarInfo: Loading custom status bar definition.
+[10:51:54] D_CheckNetGame: Checking network game status.
+[10:51:54] using alternate port 10666
+[10:51:54] player 1 of 1 (1 nodes)
+[10:51:54] Initializing network subsystem.
+[10:51:54] Server using alternate port 10666.
+[10:51:54] Winsock initialization succeeded!
+[10:51:55] IP address 192.168.0.19:10666
+[10:51:59] GeoIP initialization failed.
+[10:52:00] UDP Initialized.
+[10:52:01] Sucessfully added port mapping.
+[10:52:01] QCDE01 (Blood Covenant) added to map rotation list at position 1.
+[10:52:01] QCDE02 (Toxjcity) added to map rotation list at position 2.
+[10:52:01] QCDE03 (Menelkir's domain) added to map rotation list at position 3.
+[10:52:01] QCDE04 (Bitterman's Revenge) added to map rotation list at position 4.
+[10:52:01] QCDE05 (Fortress in the Void) added to map rotation list at position 5.
+[10:52:01] QCDE06 (Vertical Vengeance) added to map rotation list at position 6.
+[10:52:01] QCDE07 (Temple of Retribution) added to map rotation list at position 7.
+[10:52:01] QCDE08 (Furious Heights) added to map rotation list at position 8.
+[10:52:01] QCDE09 (Lost World) added to map rotation list at position 9.
+[10:52:01] QCDE10 (Cure) added to map rotation list at position 10.
+[10:52:01] QCDE11 (Monsoon) added to map rotation list at position 11.
+[10:52:01] QCDE12 (Phobos Campgrounds) added to map rotation list at position 12.
+[10:52:01] QCDE13 (Sight) added to map rotation list at position 13.
+[10:52:01] QCDE14 (Stubborn) added to map rotation list at position 14.
+[10:52:01] QCDE15 (Chastity Belt) added to map rotation list at position 15.
+[10:52:01] QCDE16 (Sinister) added to map rotation list at position 16.
+[10:52:01] QCDE17 (Lockbox) added to map rotation list at position 17.
+[10:52:01] QCDE18 (Elder) added to map rotation list at position 18.
+[10:52:01] QCDE19 (Corrupted Station) added to map rotation list at position 19.
+[10:52:01] QCDE20 (Deck) added to map rotation list at position 20.
+[10:52:01] QCDE21 (Almost Lost) added to map rotation list at position 21.
+[10:52:01] QCDE22 (Sarnath) added to map rotation list at position 22.
+[10:52:01] QCDE23 (Lea) added to map rotation list at position 23.
+[10:52:01] QCDE24 (Vale of Pnath) added to map rotation list at position 24.
+[10:52:01] QCDE25 (Quarantine) added to map rotation list at position 25.
+[10:52:01] QCDE26 (Lh'owoken) added to map rotation list at position 26.
+[10:52:01] QCDE27 (Placebo Effect) added to map rotation list at position 27.
+[10:52:01] QCDE28 (Molten Falls) added to map rotation list at position 28.
+[10:52:01] QCDE29 (Blood Run) added to map rotation list at position 29.
+[10:52:01] QCDE30 (Gibel Complex) added to map rotation list at position 30.
+[10:52:01] QCDE31 (Excavation) added to map rotation list at position 31.
+[10:52:01] QCDE32 (Delirium) added to map rotation list at position 32.
+[10:52:01] QCDE33 (Silence) added to map rotation list at position 33.
+[10:52:01] QCDE34 (Zenith) added to map rotation list at position 34.
+[10:52:01] QCDE35 (The Edge) added to map rotation list at position 35.
+[10:52:01] QCDE36 (Fusillade) added to map rotation list at position 36.
+[10:52:01] QCDE37 (Dukiforged) added to map rotation list at position 37.
+[10:52:01] QCDE38 (Helix) added to map rotation list at position 38.
+[10:52:01] QCDE39 (Arcane Temple) added to map rotation list at position 39.
+[10:52:01] QCDE40 (Rankin) added to map rotation list at position 40.
+[10:52:01] QCDE41 (QWER) added to map rotation list at position 41.
+[10:52:01] QCDE42 (Mine Embrace) added to map rotation list at position 42.
+[10:52:01] QCDE43 (Temple of the Blood Serpants) added to map rotation list at position 43.
+[10:52:01] QCDE44 (Exile) added to map rotation list at position 44.
+[10:52:01] QCDE45 (Deck 17) added to map rotation list at position 45.
+[10:52:01] QCDE46 (Brought 2 doom) added to map rotation list at position 46.
+[10:52:01] QCDE47 (Claustrophobopolis) added to map rotation list at position 47.
+[10:52:01] QCDE48 (Mythic) added to map rotation list at position 48.
+[10:52:01] QCDE49 (Erase) added to map rotation list at position 49.
+[10:52:01] QCDE50 (Achilles) added to map rotation list at position 50.
+[10:52:01] 
+[10:52:01]    $$$$    $$$$       $$$$$   $$$$$$  
+[10:52:01]   $$  $$  $$  $$  $$  $$  $$  $$      
+[10:52:01]   $$ $$$  $$          $$  $$  $$$$    
+[10:52:01]   $$  $$  $$  $$  $$  $$  $$  $$      
+[10:52:01]    $$$$ $  $$$$       $$$$$   $$$$$$  
+[10:52:01]                  v3.0     
+[10:52:01]  
+[10:52:01] You are playing Quake Champions: Doom Edition. 
+[10:52:01] Join our Discord to chat with other players, 
+[10:52:01] report bugs and enjoy multiplayer events!
+[10:52:01] 
+[10:52:01] ->  https://discord.gg/u4ptaMk  <-
+[10:52:01]  
+[10:52:01] 
+[10:52:01] *** QCDE01: Blood Covenant ***
+[10:52:01] 
+[10:53:17] 
+[10:53:17] *** QCDE01: Blood Covenant ***
+[10:53:17] 
+[20:52:27] Connect (v1.4.20): 94.55.216.168:61248
+[20:52:27] dmflags changed to: 8536448
+[20:52:27] No bots found.
+[20:52:27] >_< entered the game.
+[20:52:27] >_<: I'm ready to start a blizzard!
+[20:52:27] Player (94.55.216.168:61248) has connected.
+[20:52:28] Gnome entered the game.
+[20:52:28] Gnome: Let's hear those guns!
+[20:52:29] Menelkir entered the game.
+[20:52:30] Terrorist entered the game.
+[20:52:30] Terrorist: It's a perfect day for some mayhem!
+[20:52:31] TotesTotem entered the game.
+[20:52:40] Player joined the game.
+[20:52:40] Terrorist left the game.
+[20:52:42] FIGHT!
+[20:52:52] TotesTotem >> GNT >> Menelkir
+[20:52:57] Player >>  RL >> TotesTotem
+[20:53:09] Player >> SSG >> >_<
+[20:53:12] TotesTotem >> GNT >> Gnome
+[20:53:13] Player >> SSG >> TotesTotem
+[20:53:21] Player >> SSG >> Gnome
+[20:53:30] Player >>  RL >> Menelkir
+[20:53:36] Player >>  RL >> Gnome
+[20:53:42] Player >> SSG >> >_<
+[20:53:54] Player >> SSG >> Menelkir
+[20:54:02] >_< felt the power of argent energy at TotesTotem's fingertips.
+[20:54:19] Player >>  LG >> Gnome
+[20:54:19] Menelkir >> GNT >> >_<
+[20:54:25] Player >> HMG >> >_<
+[20:54:28] Player >> HMG >> Menelkir
+[20:54:31] Player >> HMG >> Gnome
+[20:54:36] Player >> HMG >> >_<
+[20:54:38] Player >> HMG >> TotesTotem
+[20:54:40] Player >> HMG >> Menelkir
+[20:54:45] Menelkir >>  MG >> TotesTotem
+[20:54:47] Player >> SSG >> Gnome
+[20:54:52] Player >> SNG >> >_<
+[20:55:06] Gnome >>  RL >> Menelkir
+[20:55:11] Player >> SSG >> >_<
+[20:55:30] Menelkir >>  LG >> TotesTotem
+[20:55:38] Player >> HMG >> Gnome
+[20:55:49] Player >> SSG >> TotesTotem
+[20:55:50] Menelkir killed himself.
+[20:55:52] >_< was killed by Menelkir.
+[20:56:00] TotesTotem >>  MG >> Gnome
+[20:56:03] Player >> SSG >> Menelkir
+[20:56:10] TotesTotem >>  MG >> Player
+[20:56:11] >_< >>  MG >> Gnome
+[20:56:24] Menelkir >>  MG >> Gnome
+[20:56:25] >_< felt the power of argent energy at TotesTotem's fingertips.
+[20:56:28] Player >> GNT >> Menelkir
+[20:56:36] >_< >> SSG >> TotesTotem
+[20:56:36] TotesTotem >>  RL >> >_<
+[20:56:37] Player >> GNT >> Gnome
+[20:56:47] Player >> HMG >> >_<
+[20:56:53] TotesTotem >>  LG >> Gnome
+[20:56:54] Player >>  RL >> TotesTotem
+[20:56:59] Player >> SSG >> >_<
+[20:57:01] Gnome was killed by Menelkir.
+[20:57:07] Player >> SSG >> Gnome
+[20:57:08] Menelkir >>  MG >> TotesTotem
+[20:57:15] Menelkir killed himself.
+[20:57:23] Gnome >> SSG >> Player
+[20:57:29] >_< was killed by Gnome.
+[20:57:29] Menelkir felt the power of argent energy at TotesTotem's fingertips.
+[20:57:36] Player >> HMG >> >_<
+[20:57:38] Menelkir >>  MG >> Gnome
+[20:57:43] Gnome was killed by Menelkir.
+[20:57:53] Player >> HMG >> TotesTotem
+[20:58:00] Gnome >> HMG >> >_<
+[20:58:00] >_< >>  TB >> Gnome
+[20:58:11] Menelkir >> SSG >> >_<
+[20:58:19] Gnome >> HMG >> TotesTotem
+[20:58:22] Fraglimit hit.
+[20:58:22] Player wins!
+[20:58:22] Player >> HMG >> >_<
+[20:58:29] 
+[20:58:29] *** QCDE07: Temple of Retribution ***
+[20:58:29] 
+[20:58:29] TotesTotem left the game.
+[20:58:29] Borkenstein entered the game.
+[20:58:33] client Player (94.55.216.168:61248) disconnected.
+[20:58:39] FIGHT!
+[07:14:35] Connect (v1.4.20): 94.55.216.168:61257
+[07:14:35] Inquisitor entered the game.
+[07:14:35] Player (94.55.216.168:61257) has connected.
+[07:14:40] Gnome >>  RL >> Inquisitor
+[07:14:41] Player joined the game.
+[07:14:41] >_< left the game.
+[07:14:53] Inquisitor >>  MG >> Gnome
+[07:14:55] Player >> HMG >> Inquisitor
+[07:15:04] Menelkir >> SSG >> Inquisitor
+[07:15:14] Inquisitor was killed by Menelkir.
+[07:15:19] Player >> SSG >> Menelkir
+[07:15:32] Player >> SSG >> Gnome
+[07:15:38] Menelkir >> GNT >> Borkenstein
+[07:15:45] Player >> SNG >> Inquisitor
+[07:15:47] Player >> SNG >> Gnome
+[07:15:52] Player >> SNG >> Inquisitor
+[07:16:02] Inquisitor >> SSG >> Gnome
+[07:16:06] Player >> SNG >> Borkenstein
+[07:16:11] Player >> SNG >> Inquisitor
+[07:16:13] Borkenstein >>  RL >> Gnome
+[07:16:18] Player >> SNG >> Borkenstein
+[07:16:26] Borkenstein >>  MG >> Player
+[07:16:27] Gnome >> SNG >> Menelkir
+[07:16:34] Player >> SNG >> Gnome
+[07:16:39] Gnome >>  RL >> Player
+[07:16:44] Menelkir >> GNT >> Player
+[07:16:48] Borkenstein >> SNG >> Inquisitor
+[07:16:49] Gnome >>  RL >> Player
+[07:16:54] Player >> HMG >> Menelkir
+[07:17:00] Borkenstein >>  RL >> Gnome
+[07:17:06] Menelkir >>  MG >> Inquisitor
+[07:17:13] Player >> GNT >> Menelkir
+[07:17:26] Inquisitor >> SNG >> Gnome
+[07:17:26] Menelkir >> SSG >> Inquisitor
+[07:17:32] Player >> SNG >> Menelkir
+[07:17:37] Inquisitor >> GNT >> Menelkir
+[07:17:41] Player >> SSG >> Gnome
+[07:17:42] Inquisitor >> GNT >> Borkenstein
+[07:17:47] Borkenstein >>  MG >> Inquisitor
+[07:17:52] Menelkir >> HMG >> Borkenstein
+[07:17:54] Player was killed by Gnome.
+[07:17:57] Inquisitor was killed by Menelkir.
+[07:18:02] Player >>  RL >> Menelkir
+[07:18:06] Player >>  RL >> Inquisitor
+[07:18:13] Menelkir >>  MG >> Borkenstein
+[07:18:21] Player >>  RL >> Gnome
+[07:18:21] Borkenstein was killed by Gnome.
+[07:18:27] Inquisitor >> SSG >> Player
+[07:18:27] Player >>  RL >> Inquisitor
+[07:18:37] Gnome >>  MG >> Menelkir
+[07:18:38] Player >>  RL >> Inquisitor
+[07:18:39] Player >>  RL >> Borkenstein
+[07:18:53] Player >> HMG >> Borkenstein
+[07:19:04] Inquisitor >>  RL >> Player
+[07:19:06] Gnome >>  MG >> Menelkir
+[07:19:07] Borkenstein >>  MG >> Inquisitor
+[07:19:20] Gnome >>  MG >> Borkenstein
+[07:19:31] Menelkir >> SNG >> Gnome
+[07:19:34] Inquisitor was killed by Menelkir.
+[07:19:37] Player >>  RL >> Borkenstein
+[07:19:45] Menelkir >> SNG >> Gnome
+[07:19:46] Player >>  RL >> Borkenstein
+[07:19:58] Player >> SNG >> Inquisitor
+[07:20:04] Gnome >>  RL >> Inquisitor
+[07:20:08] Menelkir >> SNG >> Borkenstein
+[07:20:11] Gnome was killed by Menelkir.
+[07:20:19] Player >> SNG >> Inquisitor
+[07:20:28] Gnome >> HMG >> Borkenstein
+[07:20:33] Inquisitor >> SSG >> Menelkir
+[07:20:45] Player >> HMG >> Borkenstein
+[07:20:47] Gnome >> GNT >> Menelkir
+[07:20:54] Player >> HMG >> Menelkir
+[07:21:03] Menelkir was killed by Gnome.
+[07:21:09] Player >>  RL >> Inquisitor
+[07:21:14] Gnome >> SNG >> Borkenstein
+[07:21:18] Player >>  RL >> Menelkir
+[07:21:22] Fraglimit hit.
+[07:21:22] Player wins!
+[07:21:22] Player >>  RL >> Menelkir
+[07:21:32] 
+[07:21:32] *** QCDE08: Furious Heights ***
+[07:21:32] 
+[07:21:33] Inquisitor left the game.
+[07:21:33] WeeBaby1776 entered the game.
+[07:21:42] FIGHT!
+[07:21:49] Gnome >>  MG >> Player
+[07:21:56] Borkenstein was killed by Menelkir.
+[07:22:00] Gnome >>  TB >> Borkenstein
+[07:22:02] Player killed himself.
+[07:22:06] WeeBaby1776 >>  LG >> Gnome
+[07:22:09] WeeBaby1776 >>  LG >> Borkenstein
+[07:22:16] Menelkir >> SNG >> WeeBaby1776
+[07:22:21] Player >> SNG >> Borkenstein
+[07:22:26] Gnome >> HMG >> WeeBaby1776
+[07:22:31] Menelkir >>  RL >> Borkenstein
+[07:22:34] WeeBaby1776 >>  MG >> Player
+[07:22:34] Borkenstein was killed by Menelkir.
+[07:22:38] Gnome was minced by Borkenstein.
+[07:22:44] Gnome >>  RL >> Player
+[07:22:54] Borkenstein >> SNG >> WeeBaby1776
+[07:22:55] Menelkir was killed by Gnome.
+[07:22:55] Player >>  LG >> Borkenstein
+[07:23:05] WeeBaby1776 >>  MG >> Gnome
+[07:23:07] WeeBaby1776 >>  MG >> Borkenstein
+[07:23:14] Player >>  LG >> WeeBaby1776
+[07:23:17] Gnome >>  TB >> Borkenstein
+[07:23:24] Gnome >>  TB >> Menelkir
+[07:23:25] Player was killed by Menelkir.
+[07:23:29] Gnome killed himself.
+[07:23:29] WeeBaby1776 >>  MG >> Menelkir
+[07:23:36] Menelkir >>  RL >> Player
+[07:23:41] Gnome >> GNT >> Player
+[07:23:42] Player >>  TB >> Gnome
+[07:23:43] Borkenstein >>  TB >> Menelkir
+[07:23:46] Menelkir >>  TB >> Borkenstein
+[07:23:47] Gnome >> GNT >> Menelkir
+[07:23:50] WeeBaby1776 >>  MG >> Gnome
+[07:23:55] Player >>  RL >> Menelkir
+[07:24:04] Player >> SSG >> Gnome
+[07:24:08] Menelkir >> GNT >> Borkenstein
+[07:24:09] WeeBaby1776 >>  RL >> Gnome
+[07:24:12] Player >>  RL >> WeeBaby1776
+[07:24:13] Menelkir >>  TB >> Gnome
+[07:24:19] WeeBaby1776 >> GNT >> Gnome
+[07:24:20] Borkenstein >>  RL >> WeeBaby1776
+[07:24:26] Gnome >> GNT >> Player
+[07:24:28] Borkenstein >> SNG >> WeeBaby1776
+[07:24:30] WeeBaby1776 >>  MG >> Gnome
+[07:24:36] WeeBaby1776 >>  RL >> Gnome
+[07:24:41] Gnome >> SNG >> Borkenstein
+[07:24:48] Player >>  RL >> Borkenstein
+[07:24:55] WeeBaby1776 >>  RL >> Borkenstein
+[07:25:01] Player >>  LG >> WeeBaby1776
+[07:25:05] WeeBaby1776 was killed by Menelkir.
+[07:25:13] WeeBaby1776 >>  TB >> Borkenstein
+[07:25:23] Gnome >> SSG >> Player
+[07:25:23] WeeBaby1776 killed himself.
+[07:25:28] Gnome >>  RL >> WeeBaby1776
+[07:25:35] Player was minced by Borkenstein.
+[07:25:38] Menelkir >>  RL >> WeeBaby1776
+[07:25:38] Menelkir killed himself.
+[07:25:44] Borkenstein >> SNG >> Player
+[07:25:45] WeeBaby1776 >>  TB >> Menelkir
+[07:25:53] Menelkir >>  MG >> WeeBaby1776
+[07:26:03] Player >> SNG >> Borkenstein
+[07:26:08] Gnome >>  RL >> Menelkir
+[07:26:17] Player >>  RL >> Gnome
+[07:26:26] Borkenstein >>  RL >> Player
+[07:26:31] Menelkir >>  MG >> Borkenstein
+[07:26:43] Player >>  RL >> Menelkir
+[07:26:44] Gnome >>  LG >> Player
+[07:26:49] WeeBaby1776 >> GNT >> Player
+[07:26:54] Borkenstein >>  RL >> Gnome
+[07:26:55] Menelkir >>  RL >> Player
+[07:26:58] WeeBaby1776 >>  LG >> Menelkir
+[07:27:07] Menelkir >>  RL >> Gnome
+[07:27:11] WeeBaby1776 >> HMG >> Borkenstein
+[07:27:15] Player killed himself.
+[07:27:20] Menelkir >>  RL >> Borkenstein
+[07:27:33] Player >>  RL >> Borkenstein
+[07:27:37] Player >>  RL >> Menelkir
+[07:27:38] Player >>  RL >> Gnome
+[07:27:38] Player killed himself.
+[07:27:47] Player >>  LG >> Menelkir
+[07:27:51] Player >>  LG >> Gnome
+[07:28:01] Gnome >> SSG >> Borkenstein
+[07:28:02] Player >>  LG >> WeeBaby1776
+[07:28:05] Player >> HMG >> Borkenstein
+[07:28:06] Player >> HMG >> Gnome
+[07:28:17] WeeBaby1776 >>  MG >> Borkenstein
+[07:28:24] Gnome >> SSG >> WeeBaby1776
+[07:28:24] Player >>  RL >> Gnome
+[07:28:28] Player >> SSG >> Menelkir
+[07:28:35] WeeBaby1776 was killed by Menelkir.
+[07:28:42] Player >> SSG >> Gnome
+[07:28:51] Gnome was killed by Menelkir.
+[07:28:58] Menelkir >>  TB >> Gnome
+[07:28:59] Player >>  RL >> Borkenstein
+[07:29:04] Borkenstein >>  TB >> WeeBaby1776
+[07:29:14] WeeBaby1776 >> SNG >> Menelkir
+[07:29:29] Player >>  RL >> WeeBaby1776
+[07:29:34] Player >>  RL >> WeeBaby1776
+[07:29:38] Menelkir >> GNT >> Gnome
+[07:29:43] Player >> SNG >> Gnome
+[07:29:46] WeeBaby1776 >>  MG >> Menelkir
+[07:29:53] Menelkir >>  TB >> Borkenstein
+[07:29:53] Player >> SNG >> WeeBaby1776
+[07:30:01] WeeBaby1776 >>  MG >> Player
+[07:30:06] Player >> SSG >> WeeBaby1776
+[07:30:11] WeeBaby1776 >>  MG >> Gnome
+[07:30:12] Menelkir >>  TB >> WeeBaby1776
+[07:30:25] Player >>  RL >> Borkenstein
+[07:30:31] Gnome >>  MG >> Menelkir
+[07:30:31] Menelkir >>  TB >> Gnome
+[07:30:35] Player >>  RL >> Borkenstein
+[07:30:40] Menelkir was minced by Borkenstein.
+[07:30:44] Player >>  RL >> Borkenstein
+[07:30:53] Fraglimit hit.
+[07:30:53] Player wins!
+[07:30:53] Player >> SSG >> WeeBaby1776
+[07:31:10] 
+[07:31:10] *** QCDE46: Brought 2 doom ***
+[07:31:10] 
+[07:31:10] Borkenstein left the game.
+[07:31:10] Borsch entered the game.
+[07:31:10] Borsch: Hide, cowards!
+[07:31:20] FIGHT!
+[07:31:28] WeeBaby1776 >>  TB >> Gnome
+[07:31:31] Player is now known as STaReX
+[07:31:36] Gnome was killed by Menelkir.
+[07:31:38] client STaReX (94.55.216.168:61257) disconnected.
+[07:04:12] Connect (v1.4.20): 94.55.216.168:61290
+[07:04:12] _cupbo4rdvirus entered the game.
+[07:04:12] STaReX (94.55.216.168:61290) has connected.
+[07:04:13] Menelkir >>  RL >> WeeBaby1776
+[07:04:19] WeeBaby1776 >>  MG >> Borsch
+[07:04:20] STaReX joined the game.
+[07:04:20] Borsch left the game.
+[07:04:23] WeeBaby1776 >>  MG >> STaReX
+[07:04:28] STaReX >>  RL >> Menelkir
+[07:04:30] WeeBaby1776 >> SNG >> _cupbo4rdvirus
+[07:04:35] WeeBaby1776 >>  MG >> STaReX
+[07:04:37] _cupbo4rdvirus >>  MG >> WeeBaby1776
+[07:04:38] STaReX >>  SG >> Menelkir
+[07:04:42] STaReX >> GNT >> Gnome
+[07:04:42] _cupbo4rdvirus mutated.
+[07:04:46] _cupbo4rdvirus >> GNT >> Gnome
+[07:04:54] WeeBaby1776 was killed by Menelkir.
+[07:04:56] Gnome >> GNT >> _cupbo4rdvirus
+[07:04:58] WeeBaby1776 >>  MG >> Menelkir
+[07:05:09] WeeBaby1776 >> HMG >> Gnome
+[07:05:11] WeeBaby1776 >> GNT >> _cupbo4rdvirus
+[07:05:16] STaReX >> SNG >> Gnome
+[07:05:17] _cupbo4rdvirus >> GNT >> STaReX
+[07:05:18] Menelkir >>  MG >> WeeBaby1776
+[07:05:19] Gnome >>  MG >> _cupbo4rdvirus
+[07:05:20] Menelkir mutated.
+[07:05:22] WeeBaby1776 >> SNG >> Gnome
+[07:05:29] Menelkir >>  MG >> Gnome
+[07:05:33] Menelkir felt the power of argent energy at _cupbo4rdvirus's fingertips.
+[07:05:33] STaReX >> SSG >> _cupbo4rdvirus
+[07:05:35] STaReX was killed by Gnome.
+[07:05:45] Gnome >> SSG >> _cupbo4rdvirus
+[07:05:49] Menelkir >>  MG >> WeeBaby1776
+[07:05:54] Gnome mutated.
+[07:05:56] WeeBaby1776 >>  MG >> Menelkir
+[07:06:00] STaReX >>  RG >> Gnome
+[07:06:02] WeeBaby1776 was killed by Menelkir.
+[07:06:02] Gnome >>  MG >> STaReX
+[07:06:08] WeeBaby1776 >> HMG >> _cupbo4rdvirus
+[07:06:08] Gnome was killed by Menelkir.
+[07:06:16] STaReX >>  SG >> _cupbo4rdvirus
+[07:06:18] STaReX >>  SG >> Gnome
+[07:06:22] Gnome >>  MG >> STaReX
+[07:06:23] WeeBaby1776 >>  RL >> Menelkir
+[07:06:32] STaReX >> SSG >> Menelkir
+[07:06:40] WeeBaby1776 >>  RL >> Gnome
+[07:06:46] WeeBaby1776 >>  RL >> _cupbo4rdvirus
+[07:06:47] Menelkir >>  MG >> Gnome
+[07:07:01] WeeBaby1776 >>  RL >> _cupbo4rdvirus
+[07:07:05] STaReX >> SSG >> Gnome
+[07:07:10] Menelkir >> GNT >> _cupbo4rdvirus
+[07:07:15] Menelkir >>  MG >> WeeBaby1776
+[07:07:23] WeeBaby1776 >> GNT >> _cupbo4rdvirus
+[07:07:24] Gnome >>  MG >> STaReX
+[07:07:28] STaReX >> SSG >> Menelkir
+[07:07:30] _cupbo4rdvirus >>  RL >> Gnome
+[07:07:30] WeeBaby1776 >>  MG >> _cupbo4rdvirus
+[07:07:38] STaReX >>  RL >> WeeBaby1776
+[07:07:42] STaReX >> SSG >> _cupbo4rdvirus
+[07:07:49] WeeBaby1776 >>  MG >> _cupbo4rdvirus
+[07:07:50] Menelkir was too close to Gnome's dire orb.
+[07:07:55] STaReX >>  RL >> WeeBaby1776
+[07:07:58] STaReX >>  RL >> Menelkir
+[07:08:04] STaReX >> HMG >> Gnome
+[07:08:10] _cupbo4rdvirus >> HMG >> WeeBaby1776
+[07:08:12] _cupbo4rdvirus >> HMG >> Menelkir
+[07:08:17] STaReX >> SSG >> Gnome
+[07:08:20] WeeBaby1776 >>  MG >> _cupbo4rdvirus
+[07:08:20] STaReX >> SSG >> Menelkir
+[07:08:26] STaReX >> SSG >> Menelkir
+[07:08:28] STaReX >> SSG >> Gnome
+[07:08:39] Gnome >>  RL >> _cupbo4rdvirus
+[07:08:43] STaReX >> BFG >> Gnome
+[07:08:49] Menelkir was killed by Gnome.
+[07:08:54] STaReX >> BFG >> _cupbo4rdvirus
+[07:08:57] WeeBaby1776 >>  RL >> Gnome
+[07:08:58] STaReX >> BFG >> Menelkir
+[07:09:05] STaReX >> SSG >> Gnome
+[07:09:10] WeeBaby1776 >>  RL >> Menelkir
+[07:09:16] STaReX >>  RL >> Gnome
+[07:09:22] STaReX >> SSG >> _cupbo4rdvirus
+[07:09:28] Menelkir >>  MG >> Gnome
+[07:09:31] WeeBaby1776 >> HMG >> _cupbo4rdvirus
+[07:09:33] WeeBaby1776 >> HMG >> Menelkir
+[07:09:37] STaReX >> BFG >> Menelkir
+[07:09:48] WeeBaby1776 >> HMG >> _cupbo4rdvirus
+[07:09:56] WeeBaby1776 >> HMG >> Menelkir
+[07:09:57] WeeBaby1776 was killed by Menelkir.
+[07:09:57] STaReX was killed by Menelkir.
+[07:10:00] Gnome >>  TB >> Menelkir
+[07:10:04] STaReX >>  RL >> _cupbo4rdvirus
+[07:10:11] WeeBaby1776 >> HMG >> STaReX
+[07:10:11] STaReX >> BFG >> WeeBaby1776
+[07:10:17] Gnome >>  TB >> WeeBaby1776
+[07:10:21] Gnome >>  TB >> STaReX
+[07:10:21] Fraglimit hit.
+[07:10:21] STaReX wins!
+[07:10:21] STaReX >> SNG >> Gnome
+[07:10:29] 
+[07:10:29] *** QCDE43: Temple of the Blood Serpants ***
+[07:10:29] 
+[07:10:30] Menelkir left the game.
+[07:10:30] Toxjq entered the game.
+[07:10:44] FIGHT!
+[07:10:48] Gnome >> GNT >> WeeBaby1776
+[07:10:58] Toxjq >> HMG >> STaReX
+[07:11:01] Gnome >> SNG >> _cupbo4rdvirus
+[07:11:06] Toxjq >> HMG >> Gnome
+[07:11:08] Toxjq >> HMG >> _cupbo4rdvirus
+[07:11:11] WeeBaby1776 >>  MG >> Gnome
+[07:11:13] STaReX >> HMG >> _cupbo4rdvirus
+[07:11:17] Toxjq >> HMG >> WeeBaby1776
+[07:11:28] WeeBaby1776 >> HMG >> _cupbo4rdvirus
+[07:11:30] WeeBaby1776 >> HMG >> Toxjq
+[07:11:30] STaReX >> SSG >> Gnome
+[07:11:36] Toxjq >>  MG >> _cupbo4rdvirus
+[07:11:43] Toxjq >>  MG >> _cupbo4rdvirus
+[07:11:44] Toxjq >>  MG >> STaReX
+[07:11:55] STaReX >>  LG >> Gnome
+[07:11:56] Toxjq >>  RG >> WeeBaby1776
+[07:11:59] WeeBaby1776 >>  MG >> _cupbo4rdvirus
+[07:12:07] Toxjq >>  RG >> _cupbo4rdvirus
+[07:12:08] Toxjq >>  RG >> STaReX
+[07:12:12] Toxjq >>  RG >> Gnome
+[07:12:16] Gnome >>  MG >> STaReX
+[07:12:21] WeeBaby1776 >> HMG >> Gnome
+[07:12:22] Toxjq killed himself.
+[07:12:28] STaReX >>  SG >> WeeBaby1776
+[07:12:29] Toxjq >>  MG >> _cupbo4rdvirus
+[07:12:35] WeeBaby1776 >> HMG >> Gnome
+[07:12:37] STaReX >> HMG >> WeeBaby1776
+[07:12:42] Toxjq >>  MG >> Gnome
+[07:12:45] STaReX >> HMG >> Toxjq
+[07:12:55] Toxjq >>  MG >> Gnome
+[07:12:58] Toxjq >>  MG >> Gnome
+[07:13:04] WeeBaby1776 >> HMG >> STaReX
+[07:13:06] Toxjq >>  MG >> Gnome
+[07:13:16] Gnome >> GNT >> WeeBaby1776
+[07:13:21] _cupbo4rdvirus >>  MG >> STaReX
+[07:13:23] Toxjq >>  RG >> Gnome
+[07:13:27] Gnome >> GNT >> _cupbo4rdvirus
+[07:13:31] STaReX >> HMG >> Gnome
+[07:13:36] Toxjq >>  RG >> STaReX
+[07:13:38] Gnome >> GNT >> _cupbo4rdvirus
+[07:13:45] STaReX >>  LG >> WeeBaby1776
+[07:13:47] STaReX >>  LG >> _cupbo4rdvirus
+[07:13:49] WeeBaby1776 >>  MG >> Gnome
+[07:14:00] STaReX >> SSG >> _cupbo4rdvirus
+[07:14:04] STaReX >> SSG >> Gnome
+[07:14:07] Toxjq >> HMG >> _cupbo4rdvirus
+[07:14:12] Toxjq >>  TB >> Gnome
+[07:14:21] Toxjq >> HMG >> Gnome
+[07:14:24] Gnome >>  MG >> WeeBaby1776
+[07:14:33] STaReX >> SNG >> Gnome
+[07:14:46] Toxjq >>  TB >> _cupbo4rdvirus
+[07:14:47] STaReX >> SNG >> WeeBaby1776
+[07:14:53] Toxjq >> HMG >> WeeBaby1776
+[07:14:56] STaReX >> SNG >> Gnome
+[07:15:00] WeeBaby1776 >> SSG >> Gnome
+[07:15:03] Toxjq >> SNG >> _cupbo4rdvirus
+[07:15:06] WeeBaby1776 >>  MG >> Gnome
+[07:15:08] Toxjq >> SNG >> STaReX
+[07:15:08] Toxjq >>  RG >> WeeBaby1776
+[07:15:13] WeeBaby1776 >>  MG >> _cupbo4rdvirus
+[07:15:13] STaReX >> SSG >> Gnome
+[07:15:16] Toxjq >>  RG >> Gnome
+[07:15:19] Toxjq >>  TB >> _cupbo4rdvirus
+[07:15:26] STaReX >> HMG >> WeeBaby1776
+[07:15:27] STaReX >> HMG >> Gnome
+[07:15:32] Toxjq >> HMG >> WeeBaby1776
+[07:15:35] Toxjq >> HMG >> Gnome
+[07:15:38] STaReX >> SSG >> WeeBaby1776
+[07:15:46] Fraglimit hit.
+[07:15:46] Toxjq wins!
+[07:15:46] Toxjq >> HMG >> STaReX
+[07:15:53] 
+[07:15:53] *** QCDE30: Gibel Complex ***
+[07:15:53] 
+[07:15:54] Toxjq left the game.
+[07:15:54] LukMaM37 entered the game.
+[07:15:59] client STaReX (94.55.216.168:61290) disconnected.
+[07:16:08] FIGHT!
+[08:26:43] Connect (v1.4.20): 94.55.216.168:61331
+[08:26:43] Pokey Joe entered the game.
+[08:26:44] STaReX (94.55.216.168:61331) has connected.
+[08:26:46] LukMaM37 felt the power of argent energy at _cupbo4rdvirus's fingertips.
+[08:26:50] STaReX joined the game.
+[08:26:50] Pokey Joe left the game.
+[08:26:51] Gnome >>  MG >> _cupbo4rdvirus
+[08:26:57] STaReX >> SNG >> _cupbo4rdvirus
+[08:27:01] STaReX >> SNG >> _cupbo4rdvirus
+[08:27:02] WeeBaby1776 >> SNG >> Gnome
+[08:27:04] LukMaM37 killed herself.
+[08:27:04] STaReX was killed by Gnome.
+[08:27:09] WeeBaby1776 >>  TB >> Gnome
+[08:27:10] STaReX >> SNG >> WeeBaby1776
+[08:27:20] STaReX >> SNG >> _cupbo4rdvirus
+[08:27:22] WeeBaby1776 >>  MG >> LukMaM37
+[08:27:26] STaReX >>  RG >> WeeBaby1776
+[08:27:39] LukMaM37 killed herself.
+[08:27:39] LukMaM37 >>  RL >> Gnome
+[08:27:48] STaReX >>  RL >> _cupbo4rdvirus
+[08:27:56] STaReX >>  RL >> WeeBaby1776
+[08:27:57] WeeBaby1776 >>  TB >> STaReX
+[08:27:59] _cupbo4rdvirus >> GNT >> LukMaM37
+[08:28:02] _cupbo4rdvirus was starstruck by LukMaM37.
+[08:28:05] STaReX >> HMG >> Gnome
+[08:28:12] Gnome >> GNT >> STaReX
+[08:28:21] WeeBaby1776 >>  MG >> _cupbo4rdvirus
+[08:28:22] LukMaM37 >> SNG >> STaReX
+[08:28:29] LukMaM37 >> SNG >> _cupbo4rdvirus
+[08:28:30] Gnome >> HMG >> STaReX
+[08:28:34] LukMaM37 >> SNG >> Gnome
+[08:28:41] STaReX >> SNG >> _cupbo4rdvirus
+[08:28:49] LukMaM37 >>  RL >> WeeBaby1776
+[08:28:49] Gnome >>  MG >> LukMaM37
+[08:28:52] STaReX >> SNG >> Gnome
+[08:28:54] STaReX >> SNG >> WeeBaby1776
+[08:28:59] STaReX >>  LG >> WeeBaby1776
+[08:29:08] WeeBaby1776 >> HMG >> _cupbo4rdvirus
+[08:29:09] LukMaM37 >> SNG >> WeeBaby1776
+[08:29:16] WeeBaby1776 >> GNT >> Gnome
+[08:29:23] STaReX >> SNG >> _cupbo4rdvirus
+[08:29:25] STaReX >> SNG >> LukMaM37
+[08:29:26] Gnome >>  MG >> WeeBaby1776
+[08:29:32] STaReX >> HMG >> LukMaM37
+[08:29:40] STaReX >> SNG >> LukMaM37
+[08:29:41] WeeBaby1776 was killed by Gnome.
+[08:29:47] WeeBaby1776 >>  MG >> Gnome
+[08:29:54] STaReX >> HMG >> LukMaM37
+[08:29:58] WeeBaby1776 >>  MG >> _cupbo4rdvirus
+[08:29:58] LukMaM37 >> GNT >> Gnome
+[08:30:02] STaReX >> HMG >> WeeBaby1776
+[08:30:03] Gnome >>  MG >> LukMaM37
+[08:30:09] _cupbo4rdvirus >> SNG >> WeeBaby1776
+[08:30:13] _cupbo4rdvirus >> SNG >> LukMaM37
+[08:30:22] LukMaM37 >>  MG >> _cupbo4rdvirus
+[08:30:31] STaReX >> SSG >> WeeBaby1776
+[08:30:33] LukMaM37 >> SNG >> STaReX
+[08:30:41] STaReX >>  SG >> _cupbo4rdvirus
+[08:30:44] LukMaM37 >> SNG >> Gnome
+[08:30:57] Gnome >>  TB >> LukMaM37
+[08:31:01] Gnome killed himself.
+[08:31:04] STaReX >>  LG >> WeeBaby1776
+[08:31:16] _cupbo4rdvirus killed himself.
+[08:31:16] _cupbo4rdvirus >>  RL >> Gnome
+[08:31:31] STaReX >>  RL >> WeeBaby1776
+[08:31:37] STaReX >>  RL >> Gnome
+[08:31:42] STaReX >> HMG >> _cupbo4rdvirus
+[08:31:57] LukMaM37 >>  MG >> _cupbo4rdvirus
+[08:32:02] STaReX >>  RL >> LukMaM37
+[08:32:02] _cupbo4rdvirus >> GNT >> Gnome
+[08:32:11] WeeBaby1776 >> SSG >> LukMaM37
+[08:32:12] _cupbo4rdvirus >> SNG >> WeeBaby1776
+[08:32:18] STaReX >> BFG >> WeeBaby1776
+[08:32:21] Gnome >>  MG >> _cupbo4rdvirus
+[08:32:21] WeeBaby1776 >>  MG >> Gnome
+[08:32:30] STaReX >> BFG >> WeeBaby1776
+[08:32:38] STaReX >> HMG >> _cupbo4rdvirus
+[08:32:45] WeeBaby1776 was killed by Gnome.
+[08:32:48] LukMaM37 >>  RL >> Gnome
+[08:32:48] STaReX >> HMG >> _cupbo4rdvirus
+[08:32:57] Fraglimit hit.
+[08:32:57] STaReX wins!
+[08:32:57] STaReX >> HMG >> LukMaM37
+[08:33:10] 
+[08:33:10] *** QCDE31: Excavation ***
+[08:33:10] 
+[08:33:10] Gnome left the game.
+[08:33:10] Superredvisor entered the game.
+[08:33:11] Superredvisor: Ah, the site of one of my finest kills.
+[08:33:24] STaReX >>  RL >> Superredvisor
+[08:33:25] FIGHT!
+[08:33:29] LukMaM37 >> SNG >> STaReX
+[08:33:35] WeeBaby1776 was killed by Superredvisor.
+[08:33:42] STaReX >> SNG >> _cupbo4rdvirus
+[08:33:53] STaReX >> SNG >> _cupbo4rdvirus
+[08:33:55] WeeBaby1776 >>  RG >> LukMaM37
+[08:33:57] STaReX >>  RL >> Superredvisor
+[08:34:05] STaReX >> SNG >> WeeBaby1776
+[08:34:10] STaReX >> SNG >> LukMaM37
+[08:34:18] WeeBaby1776 >> GNT >> _cupbo4rdvirus
+[08:34:19] STaReX >>  RL >> WeeBaby1776
+[08:34:27] STaReX >>  LG >> _cupbo4rdvirus
+[08:34:32] STaReX >> SNG >> LukMaM37
+[08:34:41] STaReX >> SNG >> _cupbo4rdvirus
+[08:34:52] _cupbo4rdvirus >> SNG >> Superredvisor
+[08:34:54] WeeBaby1776 >>  RL >> LukMaM37
+[08:35:01] STaReX >> SSG >> _cupbo4rdvirus
+[08:35:03] STaReX >> SSG >> LukMaM37
+[08:35:14] _cupbo4rdvirus >>  LG >> WeeBaby1776
+[08:35:14] WeeBaby1776 >>  RL >> _cupbo4rdvirus
+[08:35:18] STaReX >> SSG >> Superredvisor
+[08:35:20] STaReX >> SSG >> LukMaM37
+[08:35:33] STaReX >>  RL >> LukMaM37
+[08:35:36] STaReX >>  RL >> _cupbo4rdvirus
+[08:35:39] WeeBaby1776 >> SNG >> LukMaM37
+[08:35:48] Superredvisor >> SNG >> _cupbo4rdvirus
+[08:35:58] STaReX >> BFG >> WeeBaby1776
+[08:36:03] STaReX >> BFG >> _cupbo4rdvirus
+[08:36:07] STaReX >> BFG >> Superredvisor
+[08:36:12] STaReX >> BFG >> LukMaM37
+[08:36:19] STaReX >> SSG >> _cupbo4rdvirus
+[08:36:31] STaReX >> SSG >> WeeBaby1776
+[08:36:36] _cupbo4rdvirus >>  TB >> LukMaM37
+[08:36:59] Superredvisor was starstruck by LukMaM37.
+[08:37:08] STaReX >> SSG >> _cupbo4rdvirus
+[08:37:15] STaReX >> SSG >> WeeBaby1776
+[08:37:24] STaReX >> SSG >> WeeBaby1776
+[08:37:26] _cupbo4rdvirus >>  LG >> LukMaM37
+[08:37:30] Superredvisor >> SNG >> LukMaM37
+[08:37:38] STaReX >> BFG >> Superredvisor
+[08:37:41] WeeBaby1776 >>  MG >> _cupbo4rdvirus
+[08:37:47] STaReX >> BFG >> WeeBaby1776
+[08:37:49] Superredvisor melted.
+[08:37:52] STaReX >> BFG >> LukMaM37
+[08:38:02] _cupbo4rdvirus >> SNG >> LukMaM37
+[08:38:02] Superredvisor killed herself.
+[08:38:13] STaReX >>  RL >> WeeBaby1776
+[08:38:20] STaReX >>  RL >> _cupbo4rdvirus
+[08:38:22] WeeBaby1776 >>  MG >> LukMaM37
+[08:38:26] WeeBaby1776 >>  MG >> Superredvisor
+[08:38:31] Fraglimit hit.
+[08:38:31] STaReX wins!
+[08:38:31] STaReX >>  RL >> WeeBaby1776
+[08:38:43] 
+[08:38:43] *** QCDE18: Elder ***
+[08:38:43] 
+[08:38:43] Superredvisor left the game.
+[08:38:43] Streetham entered the game.
+[08:38:43] Streetham: Welcome to the apocalypse.
+[08:38:49] LukMaM37 melted.
+[08:38:52] client STaReX (94.55.216.168:61331) disconnected.
+[08:38:58] FIGHT!
+[15:58:12] Connect (v1.4.20): 94.55.216.168:10667
+[15:58:12] Sarge entered the game.
+[15:58:13] STaReX (94.55.216.168:10667) has connected.
+[15:58:16] STaReX joined the game.
+[15:58:16] Sarge left the game.
+[15:58:16] LukMaM37 melted.
+[15:58:28] Streetham >>  MG >> _cupbo4rdvirus
+[15:58:35] STaReX melted.
+[15:58:39] WeeBaby1776 >> SNG >> _cupbo4rdvirus
+[15:58:45] STaReX >> SNG >> LukMaM37
+[15:58:47] WeeBaby1776 >> HMG >> Streetham
+[15:58:49] _cupbo4rdvirus >> SNG >> STaReX
+[15:58:49] STaReX >> SNG >> _cupbo4rdvirus
+[15:58:57] STaReX >> HMG >> WeeBaby1776
+[15:58:59] Streetham >> SSG >> LukMaM37
+[15:59:05] Streetham >> SSG >> LukMaM37
+[15:59:10] WeeBaby1776 >>  LG >> Streetham
+[15:59:11] LukMaM37 melted.
+[15:59:14] WeeBaby1776 >>  LG >> STaReX
+[15:59:21] STaReX >> SNG >> _cupbo4rdvirus
+[15:59:24] STaReX >> SNG >> WeeBaby1776
+[15:59:26] Streetham >> HMG >> LukMaM37
+[15:59:31] STaReX >>  RL >> _cupbo4rdvirus
+[15:59:34] Streetham >> HMG >> WeeBaby1776
+[15:59:38] STaReX >>  RL >> Streetham
+[15:59:42] _cupbo4rdvirus melted.
+[15:59:54] STaReX >> HMG >> LukMaM37
+[15:59:58] Streetham >> SSG >> WeeBaby1776
+[15:59:58] WeeBaby1776 >>  RL >> Streetham
+[16:00:01] LukMaM37 >> SNG >> _cupbo4rdvirus
+[16:00:01] STaReX >> HMG >> LukMaM37
+[16:00:04] STaReX >> HMG >> LukMaM37
+[16:00:04] Streetham >> SNG >> WeeBaby1776
+[16:00:09] STaReX >> HMG >> Streetham
+[16:00:15] LukMaM37 >>  MG >> _cupbo4rdvirus
+[16:00:19] LukMaM37 >>  MG >> WeeBaby1776
+[16:00:19] STaReX >>  RL >> LukMaM37
+[16:00:21] STaReX >>  RL >> Streetham
+[16:00:24] LukMaM37 bathed in the blood of Streetham.
+[16:00:27] WeeBaby1776 >> SNG >> _cupbo4rdvirus
+[16:00:34] STaReX >> SSG >> _cupbo4rdvirus
+[16:00:35] WeeBaby1776 >> HMG >> LukMaM37
+[16:00:39] STaReX >>  RL >> Streetham
+[16:00:47] STaReX killed himself.
+[16:00:50] Streetham >> HMG >> WeeBaby1776
+[16:00:56] LukMaM37 >>  LG >> Streetham
+[16:01:00] _cupbo4rdvirus >>  MG >> WeeBaby1776
+[16:01:00] LukMaM37 >>  LG >> STaReX
+[16:01:04] WeeBaby1776 >>  MG >> LukMaM37
+[16:01:10] STaReX >>  LG >> WeeBaby1776
+[16:01:12] Streetham >> SNG >> STaReX
+[16:01:13] WeeBaby1776 >>  MG >> _cupbo4rdvirus
+[16:01:17] WeeBaby1776 >> SNG >> LukMaM37
+[16:01:19] Streetham >> SNG >> _cupbo4rdvirus
+[16:01:21] WeeBaby1776 >>  RL >> LukMaM37
+[16:01:27] Streetham killed himself.
+[16:01:28] STaReX >>  LG >> WeeBaby1776
+[16:01:28] _cupbo4rdvirus bathed in the blood of Streetham.
+[16:01:32] WeeBaby1776 melted.
+[16:01:34] STaReX >> SSG >> Streetham
+[16:01:39] LukMaM37 melted.
+[16:01:41] Streetham >>  MG >> _cupbo4rdvirus
+[16:01:46] _cupbo4rdvirus melted.
+[16:01:49] STaReX >>  LG >> LukMaM37
+[16:01:49] WeeBaby1776 was starstruck by LukMaM37.
+[16:01:54] WeeBaby1776 >> SNG >> LukMaM37
+[16:02:00] LukMaM37 >> GNT >> Streetham
+[16:02:05] WeeBaby1776 >>  MG >> LukMaM37
+[16:02:06] STaReX >> SNG >> WeeBaby1776
+[16:02:16] STaReX >> SNG >> _cupbo4rdvirus
+[16:02:20] WeeBaby1776 >>  MG >> Streetham
+[16:02:22] WeeBaby1776 >>  MG >> LukMaM37
+[16:02:25] STaReX >> SSG >> WeeBaby1776
+[16:02:27] LukMaM37 was killed by Streetham.
+[16:02:29] Streetham melted.
+[16:02:30] STaReX >> SSG >> _cupbo4rdvirus
+[16:02:32] WeeBaby1776 >> SNG >> LukMaM37
+[16:02:38] WeeBaby1776 >> SNG >> _cupbo4rdvirus
+[16:02:41] STaReX >> SSG >> LukMaM37
+[16:02:41] WeeBaby1776 >> SNG >> STaReX
+[16:02:43] WeeBaby1776 >> SNG >> Streetham
+[16:02:47] STaReX >> HMG >> WeeBaby1776
+[16:02:51] WeeBaby1776 >>  MG >> Streetham
+[16:02:59] Streetham >> SNG >> WeeBaby1776
+[16:03:04] Streetham >> SNG >> _cupbo4rdvirus
+[16:03:04] LukMaM37 >> SSG >> WeeBaby1776
+[16:03:04] LukMaM37 killed herself.
+[16:03:13] Streetham >> SNG >> WeeBaby1776
+[16:03:18] STaReX >>  RL >> LukMaM37
+[16:03:26] WeeBaby1776 >> HMG >> _cupbo4rdvirus
+[16:03:29] WeeBaby1776 >> HMG >> STaReX
+[16:03:30] LukMaM37 >>  LG >> WeeBaby1776
+[16:03:35] WeeBaby1776 >>  MG >> LukMaM37
+[16:03:38] STaReX >> HMG >> WeeBaby1776
+[16:03:47] WeeBaby1776 >>  MG >> Streetham
+[16:03:53] WeeBaby1776 >>  LG >> _cupbo4rdvirus
+[16:03:55] WeeBaby1776 >>  LG >> Streetham
+[16:03:58] STaReX >> HMG >> WeeBaby1776
+[16:04:01] STaReX >> HMG >> Streetham
+[16:04:08] Streetham melted.
+[16:04:09] STaReX >> HMG >> _cupbo4rdvirus
+[16:04:14] STaReX >> HMG >> WeeBaby1776
+[16:04:17] Fraglimit hit.
+[16:04:17] STaReX wins!
+[16:04:17] STaReX >> HMG >> _cupbo4rdvirus
+[16:04:26] 
+[16:04:26] *** QCDE36: Fusillade ***
+[16:04:26] 
+[16:04:27] Streetham left the game.
+[16:04:27] Orbb entered the game.
+[16:04:32] client STaReX (94.55.216.168:10667) disconnected.
+[16:04:41] FIGHT!
+[01:19:58] Unknown challenge (128) from 99.249.115.38:33297. Ignoring IP for 10 seconds.
+[09:02:07] Connect (v1.4.20): 80.61.202.25:10667
+[09:02:07] Player 5678 entered the game.
+[09:02:08] Player (80.61.202.25:10667) has connected.
+[09:02:26] Orbb died.
+[09:02:27] WeeBaby1776 >>  TB >> LukMaM37
+[09:02:35] WeeBaby1776 >>  LG >> _cupbo4rdvirus
+[09:02:39] Orbb >> GNT >> Player 5678
+[09:02:42] LukMaM37 >>  RL >> WeeBaby1776
+[09:02:42] LukMaM37 killed herself.
+[09:02:50] _cupbo4rdvirus >>  MG >> Orbb
+[09:02:54] WeeBaby1776 >>  MG >> LukMaM37
+[09:03:05] LukMaM37 >>  MG >> _cupbo4rdvirus
+[09:03:07] WeeBaby1776 >> GNT >> LukMaM37
+[09:03:14] Player 5678 >> GNT >> WeeBaby1776
+[09:03:18] LukMaM37 >> GNT >> Orbb
+[09:03:21] _cupbo4rdvirus >>  MG >> LukMaM37
+[09:03:24] Orbb >> GNT >> Player 5678
+[09:03:28] _cupbo4rdvirus >> GNT >> Orbb
+[09:03:32] _cupbo4rdvirus was starstruck by LukMaM37.
+[09:03:43] WeeBaby1776 >>  MG >> LukMaM37
+[09:03:49] WeeBaby1776 >>  TB >> Player 5678
+[09:03:53] LukMaM37 >>  MG >> _cupbo4rdvirus
+[09:03:56] Orbb >> SSG >> Player 5678
+[09:03:59] LukMaM37 >>  MG >> WeeBaby1776
+[09:04:12] Orbb >> GNT >> _cupbo4rdvirus
+[09:04:14] LukMaM37 killed herself.
+[09:04:19] Orbb >> GNT >> Player 5678
+[09:04:22] WeeBaby1776 >>  TB >> Orbb
+[09:04:41] _cupbo4rdvirus >>  MG >> WeeBaby1776
+[09:04:45] Orbb >>  MG >> _cupbo4rdvirus
+[09:04:49] WeeBaby1776 >>  MG >> LukMaM37
+[09:04:51] WeeBaby1776 >>  MG >> Orbb
+[09:05:01] WeeBaby1776 >>  MG >> LukMaM37
+[09:05:06] _cupbo4rdvirus >>  MG >> WeeBaby1776
+[09:05:08] LukMaM37 >>  MG >> Player 5678
+[09:05:11] LukMaM37 >>  MG >> _cupbo4rdvirus
+[09:05:17] LukMaM37 >> GNT >> Orbb
+[09:05:19] LukMaM37 >>  MG >> _cupbo4rdvirus
+[09:05:23] WeeBaby1776 >>  MG >> LukMaM37
+[09:05:36] WeeBaby1776 >> GNT >> LukMaM37
+[09:05:41] Orbb >>  MG >> Player 5678
+[09:05:43] WeeBaby1776 felt the power of argent energy at _cupbo4rdvirus's fingertips.
+[09:05:47] Orbb >>  RL >> LukMaM37
+[09:05:50] WeeBaby1776 >>  MG >> _cupbo4rdvirus
+[09:05:51] Player 5678 suicides.
+[09:05:53] Orbb >>  RL >> LukMaM37
+[09:06:04] WeeBaby1776 >>  MG >> _cupbo4rdvirus
+[09:06:07] WeeBaby1776 >>  MG >> LukMaM37
+[09:06:10] Orbb >> GNT >> Player 5678
+[09:06:16] Orbb >> GNT >> WeeBaby1776
+[09:06:21] _cupbo4rdvirus >>  LG >> Orbb
+[09:06:24] WeeBaby1776 >>  MG >> LukMaM37
+[09:06:27] Orbb >>  MG >> WeeBaby1776
+[09:06:30] _cupbo4rdvirus >>  LG >> Player 5678
+[09:06:41] WeeBaby1776 >>  MG >> Player 5678
+[09:06:44] LukMaM37 felt the power of argent energy at _cupbo4rdvirus's fingertips.
+[09:07:06] _cupbo4rdvirus >> GNT >> Player 5678
+[09:07:08] LukMaM37 >> GNT >> _cupbo4rdvirus
+[09:07:19] Orbb >> GNT >> LukMaM37
+[09:07:19] Orbb was starstruck by LukMaM37.
+[09:07:22] WeeBaby1776 >> GNT >> Player 5678
+[09:07:31] _cupbo4rdvirus >> GNT >> LukMaM37
+[09:07:34] WeeBaby1776 >>  LG >> _cupbo4rdvirus
+[09:07:39] WeeBaby1776 >>  LG >> _cupbo4rdvirus
+[09:07:51] _cupbo4rdvirus >>  MG >> WeeBaby1776
+[09:07:59] LukMaM37 killed herself.
+[09:08:00] Player 5678 was starstruck by LukMaM37.
+[09:08:17] Orbb >>  TB >> WeeBaby1776
+[09:08:22] LukMaM37 >> GNT >> _cupbo4rdvirus
+[09:08:36] Orbb >>  LG >> Player 5678
+[09:08:40] _cupbo4rdvirus >>  MG >> WeeBaby1776
+[09:08:44] LukMaM37 felt the power of argent energy at _cupbo4rdvirus's fingertips.
+[09:08:44] Orbb felt the power of argent energy at _cupbo4rdvirus's fingertips.
+[09:08:47] WeeBaby1776 >> GNT >> _cupbo4rdvirus
+[09:08:56] WeeBaby1776 >>  RL >> Player 5678
+[09:08:58] WeeBaby1776 >>  MG >> LukMaM37
+[09:08:58] Player joined the game.
+[09:08:58] LukMaM37 left the game.
+[09:09:01] Orbb >>  MG >> _cupbo4rdvirus
+[09:09:02] WeeBaby1776 >>  RL >> Player 5678
+[09:09:10] Player 5678 >>  MG >> WeeBaby1776
+[09:09:16] Player >> SNG >> _cupbo4rdvirus
+[09:09:20] Player >> SNG >> Player 5678
+[09:09:26] WeeBaby1776 suicides.
+[09:09:35] Orbb >>  LG >> Player 5678
+[09:09:44] Orbb >> GNT >> Player
+[09:09:47] Orbb >> GNT >> _cupbo4rdvirus
+[09:09:56] WeeBaby1776 >> GNT >> Player 5678
+[09:09:59] WeeBaby1776 >>  TB >> Orbb
+[09:10:03] Player 5678 >>  MG >> WeeBaby1776
+[09:10:08] Player 5678 felt the power of argent energy at _cupbo4rdvirus's fingertips.
+[09:10:08] _cupbo4rdvirus killed himself.
+[09:10:27] Orbb felt the power of argent energy at Player 5678's fingertips.
+[09:10:27] WeeBaby1776 felt the power of argent energy at Player 5678's fingertips.
+[09:10:32] WeeBaby1776 >>  MG >> Player 5678
+[09:10:38] WeeBaby1776 >>  MG >> Player
+[09:10:41] Orbb >>  MG >> WeeBaby1776
+[09:10:41] Orbb >>  MG >> _cupbo4rdvirus
+[09:10:49] Orbb >> GNT >> _cupbo4rdvirus
+[09:10:56] Orbb >> GNT >> Player 5678
+[09:11:02] Player >>  TB >> _cupbo4rdvirus
+[09:11:07] Orbb >>  LG >> Player
+[09:11:09] Orbb >> GNT >> Player 5678
+[09:11:13] WeeBaby1776 felt the power of argent energy at _cupbo4rdvirus's fingertips.
+[09:11:20] WeeBaby1776 >> GNT >> Player 5678
+[09:11:30] Player 5678 >> GNT >> _cupbo4rdvirus
+[09:11:34] WeeBaby1776 >> GNT >> Orbb
+[09:11:41] _cupbo4rdvirus >>  MG >> Player 5678
+[09:11:52] Orbb killed itself.
+[09:11:53] Player >>  MG >> Player 5678
+[09:11:56] _cupbo4rdvirus >>  MG >> WeeBaby1776
+[09:12:04] Fraglimit hit.
+[09:12:04] WeeBaby1776 wins!
+[09:12:04] WeeBaby1776 >>  MG >> Player 5678
+[09:12:09] 
+[09:12:09] *** QCDE48: Mythic ***
+[09:12:09] 
+[09:12:10] Orbb left the game.
+[09:12:10] Lucienne entered the game.
+[09:12:24] FIGHT!
+[09:12:26] client Player (80.61.202.25:10667) disconnected.
+[01:44:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:45:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:45:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:46:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:46:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:47:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:47:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:48:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:48:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:49:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:49:43] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:50:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:50:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:51:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:51:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:52:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:52:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:53:19] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:53:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:54:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:54:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:55:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:55:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:56:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:56:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:57:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:57:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:58:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:58:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:59:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[01:59:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:00:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:00:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:01:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:01:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:02:17] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:02:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:03:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:03:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:04:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:04:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:05:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:05:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:06:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:06:47] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:07:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:07:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:08:15] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:08:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:09:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:09:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:10:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:10:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:11:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:11:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:12:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:12:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:13:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:13:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:14:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:14:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:15:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:15:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:16:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:16:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:17:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:17:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:18:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:18:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:19:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:19:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:20:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:20:49] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:21:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:21:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:22:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:22:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:23:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:23:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:24:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:24:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:25:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:25:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:26:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:26:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:27:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:27:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:28:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:28:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:29:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:29:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:30:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:30:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:31:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:31:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:32:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:32:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:33:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:33:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:34:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:34:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:35:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:35:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:36:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:36:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:37:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:37:42] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:38:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:38:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:39:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:39:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:40:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:40:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:41:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:41:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:42:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:42:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:43:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:43:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:44:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:44:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:45:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:45:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:46:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:46:43] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:47:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:47:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:48:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:48:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:49:13] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:49:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:50:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:50:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:51:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:51:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:52:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:52:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:53:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:53:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:54:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:54:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:55:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:55:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:56:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:56:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:57:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:57:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:58:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:58:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:59:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[02:59:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:00:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:00:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:01:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:01:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:02:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:02:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:03:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:03:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:04:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:04:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:05:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:05:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:06:16] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:06:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:07:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:07:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:08:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:08:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:09:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:09:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:10:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:10:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:11:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:11:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:12:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:12:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:13:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:13:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:14:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:14:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:15:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:15:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:16:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:16:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:17:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:17:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:18:16] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:18:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:19:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:19:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:20:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:20:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:21:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:21:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:22:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:22:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:23:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:23:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:24:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:24:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:25:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:25:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:26:14] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:26:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:27:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:27:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:28:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:28:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:29:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:29:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:30:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:30:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:31:18] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:31:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:32:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:32:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:33:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:33:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:34:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:34:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:35:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:35:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:36:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:36:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:37:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:37:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:38:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:38:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:39:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:39:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:40:13] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:40:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:41:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:41:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:42:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:42:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:43:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:43:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:44:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:44:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:45:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:45:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:46:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:46:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:47:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:47:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:48:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:48:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:49:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:49:45] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:50:13] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:50:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:51:13] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:51:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:52:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:52:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:53:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:53:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:54:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:54:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:55:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:55:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:56:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:56:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:57:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:57:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:58:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:58:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:59:15] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[03:59:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:00:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:00:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:01:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:01:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:02:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:02:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:03:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:03:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:04:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:04:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:05:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:05:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:06:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:06:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:07:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:07:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:08:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:08:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:09:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:09:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:10:16] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:10:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:11:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:11:39] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:12:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:12:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:13:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:13:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:14:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:14:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:15:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:15:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:16:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:16:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:17:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:17:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:18:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:18:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:19:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:19:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:20:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:20:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:21:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:21:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:22:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:22:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:23:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:23:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:24:14] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:24:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:25:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:25:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:26:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:26:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:27:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:27:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:28:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:28:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:29:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:29:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:30:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:30:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:31:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:31:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:32:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:32:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:33:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:33:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:34:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:34:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:35:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:35:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:36:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:36:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:37:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:37:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:38:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:38:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:39:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:39:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:40:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:40:43] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:41:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:41:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:42:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:42:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:43:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:43:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:44:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:44:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:45:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:45:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:46:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:46:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:47:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:47:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:48:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:48:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:49:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:49:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:50:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:50:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:51:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:51:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:52:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:52:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:53:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:53:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:54:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:54:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:55:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:55:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:56:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:56:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:57:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:57:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:58:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:58:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:59:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[04:59:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:00:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:00:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:01:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:01:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:02:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:02:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:03:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:03:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:04:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:04:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:05:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:05:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:06:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:06:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:07:18] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:07:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:08:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:08:46] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:09:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:09:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:10:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:10:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:11:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:11:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:12:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:12:42] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:13:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:13:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:14:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:14:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:15:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:15:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:16:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:16:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:17:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:17:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:18:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:18:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:19:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:19:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:20:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:20:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:21:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:21:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:22:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:22:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:23:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:23:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:24:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:24:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:25:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:25:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:26:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:26:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:27:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:27:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:28:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:28:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:29:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:29:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:30:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:30:40] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:31:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:31:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:32:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:32:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:33:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:33:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:34:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:34:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:35:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:35:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:36:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:36:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:37:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:37:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:38:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:38:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:39:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:39:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:40:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:40:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:41:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:41:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:42:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:42:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:43:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:43:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:44:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:44:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:45:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:45:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:46:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:46:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:47:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:47:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:48:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:48:46] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:49:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:49:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:50:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:50:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:51:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:51:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:52:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:52:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:53:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:53:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:54:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:54:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:55:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:55:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:56:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:56:44] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:57:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:57:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:58:15] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:58:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:59:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[05:59:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:00:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:00:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:01:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:01:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:02:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:02:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:03:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:03:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:04:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:04:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:05:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:05:41] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:06:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:06:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:07:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:07:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:08:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:08:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:09:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:09:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:10:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:10:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:11:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:11:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:12:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:12:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:13:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:13:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:14:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:14:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:15:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:15:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:16:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:16:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:17:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:17:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:18:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:18:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:19:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:19:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:20:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:20:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:21:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:21:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:22:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:22:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:23:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:23:41] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:24:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:24:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:25:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:25:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:26:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:26:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:27:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:27:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:28:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:28:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:29:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:29:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:30:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:30:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:31:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:31:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:32:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:32:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:33:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:33:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:34:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:34:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:35:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:35:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:36:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:36:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:37:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:37:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:38:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:38:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:39:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:39:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:40:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:40:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:41:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:41:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:42:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:42:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:43:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:43:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:44:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:44:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:45:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:45:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:46:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:46:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:47:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:47:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:48:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:48:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:49:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:49:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:50:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:50:49] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:51:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:51:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:52:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:52:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:53:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:53:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:54:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:54:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:55:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:55:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:56:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:56:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:57:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:57:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:58:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:58:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:59:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[06:59:42] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:00:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:00:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:01:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:01:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:02:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:02:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:03:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:03:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:04:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:04:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:05:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:05:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:06:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:06:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:07:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:07:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:08:14] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:08:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:09:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:09:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:10:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:10:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:11:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:11:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:12:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:12:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:13:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:13:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:14:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:14:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:15:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:15:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:16:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:16:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:17:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:17:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:18:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:18:49] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:19:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:19:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:20:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:20:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:21:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:21:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:22:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:22:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:23:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:23:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:24:09] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:24:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:25:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:25:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:26:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:26:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:27:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:27:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:28:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:28:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:29:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:29:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:30:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:30:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:31:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:31:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:32:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:32:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:33:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:33:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:34:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:34:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:35:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:35:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:36:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:36:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:37:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:37:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:38:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:38:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:39:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:39:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:40:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:40:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:41:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:41:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:42:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:42:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:43:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:43:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:44:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:44:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:45:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:45:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:46:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:46:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:47:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:47:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:48:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:48:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:49:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:49:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:50:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:50:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:51:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:51:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:52:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:52:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:53:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:53:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:54:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:54:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:55:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:55:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:56:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:56:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:57:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:57:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:58:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:58:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:59:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:59:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:00:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:00:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:01:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:01:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:02:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:02:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:03:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:03:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:04:15] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:04:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:05:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:05:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:06:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:06:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:07:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:07:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:08:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:08:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:09:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:09:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:10:19] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:10:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:11:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:11:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:12:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:12:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:13:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:13:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:14:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:14:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:15:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:15:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:16:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:16:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:17:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:17:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:18:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:18:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:19:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:19:46] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:20:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:20:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:21:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:21:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:22:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:22:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:23:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:23:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:24:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:24:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:25:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:25:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:26:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:26:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:27:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:27:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:28:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:28:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:29:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:29:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:30:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:30:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:31:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:31:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:32:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:32:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:33:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:33:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:34:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:34:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:35:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:35:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:36:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:36:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:37:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:37:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:38:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:38:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:39:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:39:45] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:40:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:40:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:41:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:41:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:42:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:42:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:43:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:43:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:44:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:44:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:45:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:45:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:46:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:46:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:47:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:47:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:48:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:48:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:49:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:49:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:50:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:50:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:51:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:51:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:52:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:52:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:53:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:53:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:54:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:54:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:55:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:55:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:56:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:56:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:57:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:57:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:58:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:58:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:59:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[08:59:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:00:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:00:49] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:01:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:01:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:02:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:02:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:03:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:03:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:04:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:04:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:05:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:05:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:06:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:06:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:07:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:07:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:08:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:08:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:09:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:09:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:10:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:10:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:11:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:11:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:12:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:12:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:13:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:13:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:14:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:14:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:15:13] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:15:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:16:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:16:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:17:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:17:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:18:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:18:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:19:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:19:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:20:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:20:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:21:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:21:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:22:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:22:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:23:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:23:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:24:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:24:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:25:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:25:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:26:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:26:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:27:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:27:44] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:28:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:28:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:29:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:29:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:30:17] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:30:51] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:31:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:31:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:32:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:32:44] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:33:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:33:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:34:21] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:34:50] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[09:35:20] Warning: Can't find masterhostname master.qzandronum.com! Either correct masterhostname or set sv_updatemaster to false.
+[07:13:25] Connect (v1.4.20): 94.55.216.168:10667
+[07:13:27] Brutal_Player entered the game.
+[07:13:28] STaReX (94.55.216.168:10667) has connected.
+[07:13:31] STaReX joined the game.
+[07:13:31] Player 5678 left the game.
+[07:13:37] STaReX >> SNG >> WeeBaby1776
+[07:13:40] Lucienne >>  LG >> STaReX
+[07:13:57] Lucienne >> SNG >> Brutal_Player
+[07:13:58] STaReX >> SSG >> _cupbo4rdvirus
+[07:14:08] WeeBaby1776 >>  LG >> Brutal_Player
+[07:14:10] STaReX >>  LG >> WeeBaby1776
+[07:14:15] STaReX >>  RL >> _cupbo4rdvirus
+[07:14:22] STaReX >>  RL >> Brutal_Player
+[07:14:26] WeeBaby1776 >> SSG >> Brutal_Player
+[07:14:28] STaReX >>  RL >> Lucienne
+[07:14:32] WeeBaby1776 >> SSG >> Brutal_Player
+[07:14:48] STaReX >>  RL >> _cupbo4rdvirus
+[07:14:58] STaReX >> HMG >> Brutal_Player
+[07:15:00] WeeBaby1776 >>  RG >> Lucienne
+[07:15:05] STaReX >> HMG >> Lucienne
+[07:15:09] _cupbo4rdvirus >>  MG >> Brutal_Player
+[07:15:12] STaReX >> HMG >> _cupbo4rdvirus
+[07:15:12] STaReX felt the power of argent energy at _cupbo4rdvirus's fingertips.
+[07:15:12] WeeBaby1776 killed himself.
+[07:15:21] Brutal_Player >>  TB >> STaReX
+[07:15:25] Lucienne >> SNG >> WeeBaby1776
+[07:15:30] _cupbo4rdvirus >>  MG >> Brutal_Player
+[07:15:34] STaReX >>  RG >> _cupbo4rdvirus
+[07:15:39] Lucienne >>  TB >> Brutal_Player
+[07:15:45] WeeBaby1776 >> GNT >> Brutal_Player
+[07:15:54] STaReX >> SNG >> _cupbo4rdvirus
+[07:16:00] WeeBaby1776 >>  RL >> Brutal_Player
+[07:16:12] WeeBaby1776 >> HMG >> STaReX
+[07:16:13] Lucienne >>  RL >> Brutal_Player
+[07:16:18] Lucienne >>  RL >> Brutal_Player
+[07:16:18] WeeBaby1776 >> HMG >> STaReX
+[07:16:26] WeeBaby1776 >> HMG >> STaReX
+[07:16:30] WeeBaby1776 >> HMG >> Brutal_Player
+[07:16:38] WeeBaby1776 >> SNG >> Brutal_Player
+[07:16:44] STaReX >> SNG >> _cupbo4rdvirus
+[07:16:50] STaReX >>  RL >> Lucienne
+[07:16:52] Brutal_Player >> HMG >> STaReX
+[07:16:54] _cupbo4rdvirus >> SNG >> Lucienne
+[07:16:59] STaReX >> SSG >> _cupbo4rdvirus
+[07:17:03] Lucienne >> HMG >> Brutal_Player
+[07:17:08] STaReX >> SNG >> WeeBaby1776
+[07:17:15] WeeBaby1776 >> HMG >> Brutal_Player
+[07:17:22] STaReX >>  RL >> Lucienne
+[07:17:25] STaReX was killed by Lucienne.
+[07:17:33] _cupbo4rdvirus >>  MG >> STaReX
+[07:17:37] _cupbo4rdvirus >> SNG >> STaReX
+[07:17:43] STaReX >>  RG >> _cupbo4rdvirus
+[07:17:52] Brutal_Player >>  RL >> STaReX
+[07:17:54] Lucienne >>  LG >> Brutal_Player
+[07:18:02] _cupbo4rdvirus >> SNG >> Brutal_Player
+[07:18:07] STaReX >>  LG >> Lucienne
+[07:18:18] STaReX >> SNG >> Lucienne
+[07:18:22] _cupbo4rdvirus >>  MG >> STaReX
+[07:18:28] STaReX >>  RG >> Lucienne
+[07:18:41] WeeBaby1776 >>  RL >> Lucienne
+[07:18:43] STaReX was killed by Lucienne.
+[07:18:51] Lucienne >> HMG >> Brutal_Player
+[07:18:54] STaReX >> SSG >> _cupbo4rdvirus
+[07:19:15] STaReX >> HMG >> Lucienne
+[07:19:23] STaReX >> HMG >> Lucienne
+[07:19:28] WeeBaby1776 >>  LG >> _cupbo4rdvirus
+[07:19:32] WeeBaby1776 >>  RL >> _cupbo4rdvirus
+[07:19:36] STaReX >> HMG >> _cupbo4rdvirus
+[07:19:36] Lucienne >>  RL >> Brutal_Player
+[07:19:43] STaReX >> HMG >> WeeBaby1776
+[07:19:52] WeeBaby1776 >>  MG >> STaReX
+[07:19:55] Lucienne >>  MG >> _cupbo4rdvirus
+[07:19:55] WeeBaby1776 >>  MG >> Brutal_Player
+[07:20:01] STaReX >> SSG >> WeeBaby1776
+[07:20:03] _cupbo4rdvirus >>  MG >> Lucienne
+[07:20:06] STaReX >> SSG >> _cupbo4rdvirus
+[07:20:10] STaReX >>  RL >> Brutal_Player
+[07:20:16] WeeBaby1776 >> SNG >> _cupbo4rdvirus
+[07:20:21] Fraglimit hit.
+[07:20:21] STaReX wins!
+[07:20:21] STaReX >> SSG >> Lucienne
+[07:20:28] 
+[07:20:28] *** QCDE21: Almost Lost ***
+[07:20:28] 
+[07:20:30] WeeBaby1776 left the game.
+[07:20:30] Orbb entered the game.
+[07:20:38] FIGHT!
+[07:20:42] client STaReX (94.55.216.168:10667) disconnected.
+[07:09:08] Connect (v1.4.20): 94.55.216.168:10667
+[07:09:08] 4nt1l0gy882 entered the game.
+[07:09:09] STaReX (94.55.216.168:10667) has connected.
+[07:09:12] STaReX joined the game.
+[07:09:12] Brutal_Player left the game.
+[07:09:12] 4nt1l0gy882 >> SNG >> Orbb
+[07:09:16] 4nt1l0gy882 >> SNG >> Lucienne
+[07:09:26] STaReX >> HMG >> _cupbo4rdvirus
+[07:09:29] Lucienne >>  MG >> 4nt1l0gy882
+[07:09:35] Lucienne >> SSG >> _cupbo4rdvirus
+[07:09:44] 4nt1l0gy882 >> HMG >> Orbb
+[07:09:44] STaReX >>  RG >> _cupbo4rdvirus
+[07:09:55] STaReX >> SNG >> Orbb
+[07:10:12] Orbb killed itself.
+[07:10:12] 4nt1l0gy882 >> HMG >> _cupbo4rdvirus
+[07:10:17] STaReX >>  RL >> _cupbo4rdvirus
+[07:10:24] Lucienne >>  RL >> _cupbo4rdvirus
+[07:10:27] Orbb >> HMG >> Lucienne
+[07:10:27] STaReX >> SNG >> Orbb
+[07:10:34] _cupbo4rdvirus >>  MG >> 4nt1l0gy882
+[07:10:36] STaReX >>  RL >> Lucienne
+[07:10:40] Lucienne >>  MG >> 4nt1l0gy882
+[07:10:47] Orbb >>  TB >> 4nt1l0gy882
+[07:10:48] STaReX >>  RL >> Orbb
+[07:10:51] _cupbo4rdvirus >> SNG >> Lucienne
+[07:10:52] STaReX >>  RL >> _cupbo4rdvirus
+[07:10:58] STaReX >> HMG >> _cupbo4rdvirus
+[07:10:59] Lucienne >> GNT >> 4nt1l0gy882
+[07:11:00] Lucienne >> SSG >> Orbb
+[07:11:01] STaReX >> HMG >> Lucienne
+[07:11:03] STaReX >> HMG >> _cupbo4rdvirus
+[07:11:05] STaReX >> HMG >> 4nt1l0gy882
+[07:11:15] STaReX >> HMG >> _cupbo4rdvirus
+[07:11:30] 4nt1l0gy882 >>  RL >> Lucienne
+[07:11:31] STaReX >>  RL >> Orbb
+[07:11:39] Lucienne >> GNT >> Orbb
+[07:11:42] 4nt1l0gy882 >>  RL >> _cupbo4rdvirus
+[07:11:46] Lucienne felt the power of argent energy at _cupbo4rdvirus's fingertips.
+[07:11:54] Orbb >> GNT >> 4nt1l0gy882
+[07:11:57] STaReX >>  RL >> Orbb
+[07:11:57] Lucienne >>  MG >> _cupbo4rdvirus
+[07:12:03] STaReX >> HMG >> _cupbo4rdvirus
+[07:12:20] STaReX >>  RL >> _cupbo4rdvirus
+[07:12:22] Orbb >>  LG >> Lucienne
+[07:12:27] STaReX >> SNG >> Lucienne
+[07:12:31] STaReX >> SNG >> 4nt1l0gy882
+[07:12:34] _cupbo4rdvirus was killed by 4nt1l0gy882.
+[07:12:40] Lucienne >>  MG >> 4nt1l0gy882
+[07:12:50] STaReX >>  RL >> Orbb
+[07:12:56] 4nt1l0gy882 >>  RL >> _cupbo4rdvirus
+[07:13:01] STaReX >> SNG >> Lucienne
+[07:13:04] STaReX >> SNG >> _cupbo4rdvirus
+[07:13:11] STaReX >> SNG >> Lucienne
+[07:13:20] Orbb >>  RL >> _cupbo4rdvirus
+[07:13:33] STaReX >>  RL >> Lucienne
+[07:13:36] STaReX >> SNG >> _cupbo4rdvirus
+[07:13:40] Lucienne >> SSG >> Orbb
+[07:13:46] 4nt1l0gy882 >>  RL >> STaReX
+[07:13:51] Orbb >>  MG >> Lucienne
+[07:13:54] _cupbo4rdvirus was killed by 4nt1l0gy882.
+[07:13:58] Orbb >>  MG >> Lucienne
+[07:13:59] _cupbo4rdvirus >> GNT >> 4nt1l0gy882
+[07:14:05] STaReX >> SNG >> 4nt1l0gy882
+[07:14:13] STaReX >>  LG >> Orbb
+[07:14:18] Orbb >>  MG >> _cupbo4rdvirus
+[07:14:21] STaReX >>  LG >> _cupbo4rdvirus
+[07:14:30] Orbb >> SSG >> _cupbo4rdvirus
+[07:14:33] Orbb >>  MG >> 4nt1l0gy882
+[07:14:36] STaReX >>  RL >> Orbb
+[07:14:42] Fraglimit hit.
+[07:14:42] STaReX wins!
+[07:14:42] STaReX >>  RL >> _cupbo4rdvirus
+[07:14:48] 
+[07:14:48] *** QCDE19: Corrupted Station ***
+[07:14:48] 
+[07:14:49] _cupbo4rdvirus left the game.
+[07:14:49] Freeman entered the game.
+[07:14:58] FIGHT!
+[07:15:01] Lucienne >>  RL >> STaReX
+[07:15:07] Lucienne >> SSG >> Orbb
+[07:15:11] STaReX is now known as STaLKeR
+[07:15:12] Lucienne >> SSG >> Freeman
+[07:15:18] Orbb >> SNG >> Freeman
+[07:15:23] 4nt1l0gy882 killed himself.
+[07:15:31] Freeman >>  RL >> 4nt1l0gy882
+[07:15:40] Freeman >>  TB >> STaLKeR
+[07:15:43] Freeman >>  RL >> Lucienne
+[07:15:46] Orbb >> SNG >> 4nt1l0gy882
+[07:15:52] Orbb >> SNG >> 4nt1l0gy882
+[07:16:06] Lucienne >> HMG >> Freeman
+[07:16:07] 4nt1l0gy882 >>  TB >> STaLKeR
+[07:16:20] Orbb >> HMG >> Lucienne
+[07:16:29] Lucienne >> HMG >> STaLKeR
+[07:16:50] Lucienne >> GNT >> Freeman
+[07:16:52] Lucienne >> GNT >> 4nt1l0gy882
+[07:16:54] 4nt1l0gy882 >>  MG >> Orbb
+[07:17:00] Lucienne >> HMG >> 4nt1l0gy882
+[07:17:08] Freeman >> HMG >> Lucienne
+[07:17:13] 4nt1l0gy882 >> SNG >> Freeman
+[07:17:22] 4nt1l0gy882 >>  MG >> Lucienne
+[07:17:25] STaLKeR >>  RL >> Freeman
+[07:17:27] 4nt1l0gy882 mutated.
+[07:17:31] Freeman >>  MG >> STaLKeR
+[07:17:36] Orbb >> HMG >> 4nt1l0gy882
+[07:17:42] STaLKeR >>  RL >> Orbb
+[07:17:45] Lucienne >>  RL >> STaLKeR
+[07:17:47] Orbb >> SSG >> Lucienne
+[07:17:51] Lucienne >>  MG >> Orbb
+[07:17:55] Freeman killed himself.
+[07:17:58] Lucienne >>  MG >> 4nt1l0gy882
+[07:18:01] Freeman >>  MG >> STaLKeR
+[07:18:01] Lucienne was killed by 4nt1l0gy882.
+[07:18:07] 4nt1l0gy882 >>  MG >> Lucienne
+[07:18:07] STaLKeR >>  RL >> 4nt1l0gy882
+[07:18:13] client STaLKeR (94.55.216.168:10667) disconnected.

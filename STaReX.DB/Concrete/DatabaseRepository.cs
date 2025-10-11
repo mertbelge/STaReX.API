@@ -32,6 +32,15 @@ namespace STaReX.DB.Concrete
             }
         }
 
+        public async Task<IEnumerable<T?>> GetAllAsync(string query, DynamicParameters? parametes)
+        {
+            using (var connection = _dbContext.CreateConnection())
+            {
+                var result = await connection.QueryAsync<T>(query, parametes, commandType: System.Data.CommandType.StoredProcedure);
+                return result;
+            }
+        }
+
         public async Task<T> InsertAsync(string query, DynamicParameters? parametes)
         {
             using (var connection = _dbContext.CreateConnection())

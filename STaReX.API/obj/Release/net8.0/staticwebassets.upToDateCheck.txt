@@ -1,1 +1,2 @@
 wwwroot\private\ZandronumLog\Copy.log
+wwwroot\private\ZandronumLog\Q-Zandronum__2025_10_01-10_51_37.log

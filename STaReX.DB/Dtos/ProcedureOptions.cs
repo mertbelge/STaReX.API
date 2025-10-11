@@ -26,5 +26,7 @@ namespace STaReX.DB.Dtos
     public class QCDELogProcedure
     {
         public string INSERT { get; set; } = null!;
+        public string GET_LAST_MAP { get; set; } = null!;
+        public string GET_PLAYERS_LIST { get; set; } = null!;
     }
 }

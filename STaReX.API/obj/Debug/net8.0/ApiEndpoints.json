@@ -21,12 +21,28 @@
   },
   {
     "ContainingType": "STaReX.API.Controllers.QCDELogReaderController.QCDELogReaderController",
+    "Method": "GetList",
+    "RelativePath": "api/QCDELogReader/get-qcde-server-info-list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "STaReX.API.Controllers.QCDELogReaderController.QCDELogReaderController",
     "Method": "Insert",
     "RelativePath": "api/QCDELogReader/log-files-insert",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "agentKeyword",
+        "Type": "STaReX.ENTITY.Models.Database.AgentKeyword",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {
