@@ -22,11 +22,11 @@ namespace STaReX.BUSINESS.Concrete.QCDELogReaderService
             int total_successes = 0;
             var procedure = _procedureOptions.QCDELogProcedure.INSERT;
 
-            for (int i = 0; i < context.Length; i++)
+            foreach (string context_item in context)
             { 
 
                 DynamicParameters parameters = new DynamicParameters();
-                parameters.Add("Context", context[i]);
+                parameters.Add("Context", context_item);
                 var result = await _repository.InsertAsync(procedure, parameters);
 
                 if (result.Success == true) { total_successes++;  }
