@@ -1,0 +1,77 @@
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.BUSINESS\bin\Release\net8.0\STaReX.BUSINESS.deps.json
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.BUSINESS\bin\Release\net8.0\STaReX.BUSINESS.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.BUSINESS\bin\Release\net8.0\STaReX.BUSINESS.pdb
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.BUSINESS\bin\Release\net8.0\STaReX.DB.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.BUSINESS\bin\Release\net8.0\STaReX.ENTITY.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.BUSINESS\bin\Release\net8.0\STaReX.DB.pdb
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.BUSINESS\bin\Release\net8.0\STaReX.ENTITY.pdb
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.csproj.AssemblyReference.cache
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.AssemblyInfoInputs.cache
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.AssemblyInfo.cs
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.BUSINESS\obj\Release\net8.0\STaReX.B.6D72F0F0.Up2Date
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.BUSINESS\obj\Release\net8.0\refint\STaReX.BUSINESS.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.pdb
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.BUSINESS\obj\Release\net8.0\ref\STaReX.BUSINESS.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.BUSINESS\bin\Release\net8.0\STaReX.BUSINESS.deps.json
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.BUSINESS\bin\Release\net8.0\STaReX.BUSINESS.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.BUSINESS\bin\Release\net8.0\STaReX.BUSINESS.pdb
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.BUSINESS\bin\Release\net8.0\STaReX.DB.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.BUSINESS\bin\Release\net8.0\STaReX.ENTITY.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.BUSINESS\bin\Release\net8.0\STaReX.HELPERS.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.BUSINESS\bin\Release\net8.0\STaReX.DB.pdb
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.BUSINESS\bin\Release\net8.0\STaReX.ENTITY.pdb
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.BUSINESS\bin\Release\net8.0\STaReX.HELPERS.pdb
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.csproj.AssemblyReference.cache
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.AssemblyInfoInputs.cache
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.AssemblyInfo.cs
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.sourcelink.json
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.BUSINESS\obj\Release\net8.0\STaReX.B.6D72F0F0.Up2Date
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.BUSINESS\obj\Release\net8.0\refint\STaReX.BUSINESS.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.pdb
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.BUSINESS\obj\Release\net8.0\ref\STaReX.BUSINESS.dll
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.BUSINESS\bin\Release\net8.0\STaReX.BUSINESS.deps.json
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.BUSINESS\bin\Release\net8.0\STaReX.BUSINESS.dll
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.BUSINESS\bin\Release\net8.0\STaReX.BUSINESS.pdb
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.BUSINESS\bin\Release\net8.0\STaReX.DB.dll
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.BUSINESS\bin\Release\net8.0\STaReX.ENTITY.dll
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.BUSINESS\bin\Release\net8.0\STaReX.HELPERS.dll
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.BUSINESS\bin\Release\net8.0\STaReX.DB.pdb
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.BUSINESS\bin\Release\net8.0\STaReX.ENTITY.pdb
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.BUSINESS\bin\Release\net8.0\STaReX.HELPERS.pdb
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.csproj.AssemblyReference.cache
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.AssemblyInfoInputs.cache
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.AssemblyInfo.cs
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.sourcelink.json
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.BUSINESS\obj\Release\net8.0\STaReX.B.6D72F0F0.Up2Date
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.dll
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.BUSINESS\obj\Release\net8.0\refint\STaReX.BUSINESS.dll
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.pdb
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.BUSINESS\obj\Release\net8.0\ref\STaReX.BUSINESS.dll
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.BUSINESS\bin\Release\net8.0\STaReX.BUSINESS.deps.json
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.BUSINESS\bin\Release\net8.0\STaReX.BUSINESS.dll
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.BUSINESS\bin\Release\net8.0\STaReX.BUSINESS.pdb
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.BUSINESS\bin\Release\net8.0\STaReX.DB.dll
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.BUSINESS\bin\Release\net8.0\STaReX.ENTITY.dll
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.BUSINESS\bin\Release\net8.0\STaReX.HELPERS.dll
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.BUSINESS\bin\Release\net8.0\STaReX.DB.pdb
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.BUSINESS\bin\Release\net8.0\STaReX.ENTITY.pdb
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.BUSINESS\bin\Release\net8.0\STaReX.HELPERS.pdb
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.csproj.AssemblyReference.cache
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.AssemblyInfoInputs.cache
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.AssemblyInfo.cs
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.sourcelink.json
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.BUSINESS\obj\Release\net8.0\STaReX.B.6D72F0F0.Up2Date
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.dll
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.BUSINESS\obj\Release\net8.0\refint\STaReX.BUSINESS.dll
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.BUSINESS\obj\Release\net8.0\STaReX.BUSINESS.pdb
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.BUSINESS\obj\Release\net8.0\ref\STaReX.BUSINESS.dll

@@ -1,0 +1,8 @@
+STaReX.API/appsettings.json
+STaReX.API/appsettings.Development.json
+STaReX.API/bin
+STaReX.API/obj/Debug
+STaReX.API/obj/Release
+.vs/
+STaReX.API/wwwroot/public/pwad
+STaRex.API/wwwroot/private/iwad

@@ -1,0 +1,54 @@
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.HELPERS\bin\Release\net8.0\STaReX.HELPERS.deps.json
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.HELPERS\bin\Release\net8.0\STaReX.HELPERS.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.HELPERS\bin\Release\net8.0\STaReX.HELPERS.pdb
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.HELPERS\bin\Release\net8.0\STaReX.DB.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.HELPERS\bin\Release\net8.0\STaReX.ENTITY.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.HELPERS\bin\Release\net8.0\STaReX.DB.pdb
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.HELPERS\bin\Release\net8.0\STaReX.ENTITY.pdb
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.csproj.AssemblyReference.cache
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.AssemblyInfoInputs.cache
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.AssemblyInfo.cs
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.csproj.CoreCompileInputs.cache
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.sourcelink.json
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.H.D22584D2.Up2Date
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\refint\STaReX.HELPERS.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.pdb
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\ref\STaReX.HELPERS.dll
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.HELPERS\bin\Release\net8.0\STaReX.HELPERS.deps.json
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.HELPERS\bin\Release\net8.0\STaReX.HELPERS.dll
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.HELPERS\bin\Release\net8.0\STaReX.HELPERS.pdb
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.HELPERS\bin\Release\net8.0\STaReX.DB.dll
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.HELPERS\bin\Release\net8.0\STaReX.ENTITY.dll
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.HELPERS\bin\Release\net8.0\STaReX.DB.pdb
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.HELPERS\bin\Release\net8.0\STaReX.ENTITY.pdb
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.csproj.AssemblyReference.cache
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.AssemblyInfoInputs.cache
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.AssemblyInfo.cs
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.csproj.CoreCompileInputs.cache
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.sourcelink.json
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.H.D22584D2.Up2Date
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.dll
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\refint\STaReX.HELPERS.dll
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.pdb
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\ref\STaReX.HELPERS.dll
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.HELPERS\bin\Release\net8.0\STaReX.HELPERS.deps.json
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.HELPERS\bin\Release\net8.0\STaReX.HELPERS.dll
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.HELPERS\bin\Release\net8.0\STaReX.HELPERS.pdb
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.HELPERS\bin\Release\net8.0\STaReX.DB.dll
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.HELPERS\bin\Release\net8.0\STaReX.ENTITY.dll
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.HELPERS\bin\Release\net8.0\STaReX.DB.pdb
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.HELPERS\bin\Release\net8.0\STaReX.ENTITY.pdb
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.csproj.AssemblyReference.cache
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.AssemblyInfoInputs.cache
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.AssemblyInfo.cs
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.csproj.CoreCompileInputs.cache
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.sourcelink.json
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.HELPERS\obj\Release\net8.0\STaReX.H.D22584D2.Up2Date
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.dll
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.HELPERS\obj\Release\net8.0\refint\STaReX.HELPERS.dll
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.pdb
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.HELPERS\obj\Release\net8.0\ref\STaReX.HELPERS.dll

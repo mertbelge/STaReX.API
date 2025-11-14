@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\STaReX.BUSINESS\STaReX.BUSINESS.csproj" />
+    <ProjectReference Include="..\STaReX.HELPERS\STaReX.HELPERS.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\public\" />
+    <Folder Include="wwwroot\private\ZandronumLog\" />
+  </ItemGroup>
+
+</Project>

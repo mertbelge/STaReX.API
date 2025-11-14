@@ -1,0 +1,63 @@
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.DB\obj\Debug\net8.0\STaReX.DB.csproj.AssemblyReference.cache
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.DB\obj\Debug\net8.0\STaReX.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.DB\obj\Debug\net8.0\STaReX.DB.AssemblyInfoInputs.cache
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.DB\obj\Debug\net8.0\STaReX.DB.AssemblyInfo.cs
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.DB\obj\Debug\net8.0\STaReX.DB.csproj.CoreCompileInputs.cache
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.DB\bin\Debug\net8.0\STaReX.DB.deps.json
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.DB\bin\Debug\net8.0\STaReX.DB.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.DB\bin\Debug\net8.0\STaReX.DB.pdb
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.DB\bin\Debug\net8.0\STaReX.ENTITY.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.DB\bin\Debug\net8.0\STaReX.ENTITY.pdb
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.DB\obj\Debug\net8.0\STaReX.DB.csproj.Up2Date
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.DB\obj\Debug\net8.0\STaReX.DB.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.DB\obj\Debug\net8.0\refint\STaReX.DB.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.DB\obj\Debug\net8.0\STaReX.DB.pdb
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX\STaReX.DB\obj\Debug\net8.0\ref\STaReX.DB.dll
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.DB\bin\Debug\net8.0\STaReX.DB.deps.json
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.DB\bin\Debug\net8.0\STaReX.DB.dll
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.DB\bin\Debug\net8.0\STaReX.DB.pdb
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.DB\bin\Debug\net8.0\STaReX.ENTITY.dll
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.DB\bin\Debug\net8.0\STaReX.ENTITY.pdb
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.DB\obj\Debug\net8.0\STaReX.DB.csproj.AssemblyReference.cache
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.DB\obj\Debug\net8.0\STaReX.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.DB\obj\Debug\net8.0\STaReX.DB.AssemblyInfoInputs.cache
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.DB\obj\Debug\net8.0\STaReX.DB.AssemblyInfo.cs
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.DB\obj\Debug\net8.0\STaReX.DB.csproj.CoreCompileInputs.cache
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.DB\obj\Debug\net8.0\STaReX.DB.sourcelink.json
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.DB\obj\Debug\net8.0\STaReX.DB.csproj.Up2Date
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.DB\obj\Debug\net8.0\STaReX.DB.dll
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.DB\obj\Debug\net8.0\refint\STaReX.DB.dll
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.DB\obj\Debug\net8.0\STaReX.DB.pdb
+C:\Users\Mert BELGE\Desktop\STaReX\STaReX.DB\obj\Debug\net8.0\ref\STaReX.DB.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.DB\bin\Debug\net8.0\STaReX.DB.deps.json
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.DB\bin\Debug\net8.0\STaReX.DB.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.DB\bin\Debug\net8.0\STaReX.DB.pdb
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.DB\bin\Debug\net8.0\STaReX.ENTITY.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.DB\bin\Debug\net8.0\STaReX.ENTITY.pdb
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.DB\obj\Debug\net8.0\STaReX.DB.csproj.AssemblyReference.cache
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.DB\obj\Debug\net8.0\STaReX.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.DB\obj\Debug\net8.0\STaReX.DB.AssemblyInfoInputs.cache
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.DB\obj\Debug\net8.0\STaReX.DB.AssemblyInfo.cs
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.DB\obj\Debug\net8.0\STaReX.DB.csproj.CoreCompileInputs.cache
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.DB\obj\Debug\net8.0\STaReX.DB.sourcelink.json
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.DB\obj\Debug\net8.0\STaReX.DB.csproj.Up2Date
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.DB\obj\Debug\net8.0\STaReX.DB.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.DB\obj\Debug\net8.0\refint\STaReX.DB.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.DB\obj\Debug\net8.0\STaReX.DB.pdb
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.API\STaReX.DB\obj\Debug\net8.0\ref\STaReX.DB.dll
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.DB\bin\Debug\net8.0\STaReX.DB.deps.json
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.DB\bin\Debug\net8.0\STaReX.DB.dll
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.DB\bin\Debug\net8.0\STaReX.DB.pdb
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.DB\bin\Debug\net8.0\STaReX.ENTITY.dll
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.DB\bin\Debug\net8.0\STaReX.ENTITY.pdb
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.DB\obj\Debug\net8.0\STaReX.DB.csproj.AssemblyReference.cache
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.DB\obj\Debug\net8.0\STaReX.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.DB\obj\Debug\net8.0\STaReX.DB.AssemblyInfoInputs.cache
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.DB\obj\Debug\net8.0\STaReX.DB.AssemblyInfo.cs
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.DB\obj\Debug\net8.0\STaReX.DB.csproj.CoreCompileInputs.cache
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.DB\obj\Debug\net8.0\STaReX.DB.sourcelink.json
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.DB\obj\Debug\net8.0\STaReX.DB.csproj.Up2Date
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.DB\obj\Debug\net8.0\STaReX.DB.dll
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.DB\obj\Debug\net8.0\refint\STaReX.DB.dll
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.DB\obj\Debug\net8.0\STaReX.DB.pdb
+C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.DB\obj\Debug\net8.0\ref\STaReX.DB.dll
