@@ -16,6 +16,7 @@ namespace STaReX.DB.Abstract
 
         Task<IEnumerable<T?>> GetAllAsync(string query, DynamicParameters? parametes);
         Task<T?> InsertAsync(string query, DynamicParameters? parametes);
+
         Task<T?> UpdateMultipleAsync(string query, DynamicParameters? parameters);
     }
 }

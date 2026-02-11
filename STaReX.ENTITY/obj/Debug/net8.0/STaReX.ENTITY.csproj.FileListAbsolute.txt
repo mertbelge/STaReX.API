@@ -45,3 +45,27 @@ C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.ENTITY\obj\Debug\net8.0\STaReX.E
 C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.ENTITY\obj\Debug\net8.0\refint\STaReX.ENTITY.dll
 C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.ENTITY\obj\Debug\net8.0\STaReX.ENTITY.pdb
 C:\Users\mert.belge\Desktop\2\STaReX.API\STaReX.ENTITY\obj\Debug\net8.0\ref\STaReX.ENTITY.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.ENTITY\bin\Debug\net8.0\STaReX.ENTITY.deps.json
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.ENTITY\bin\Debug\net8.0\STaReX.ENTITY.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.ENTITY\bin\Debug\net8.0\STaReX.ENTITY.pdb
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.ENTITY\obj\Debug\net8.0\STaReX.ENTITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.ENTITY\obj\Debug\net8.0\STaReX.ENTITY.AssemblyInfoInputs.cache
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.ENTITY\obj\Debug\net8.0\STaReX.ENTITY.AssemblyInfo.cs
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.ENTITY\obj\Debug\net8.0\STaReX.ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.ENTITY\obj\Debug\net8.0\STaReX.ENTITY.sourcelink.json
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.ENTITY\obj\Debug\net8.0\STaReX.ENTITY.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.ENTITY\obj\Debug\net8.0\refint\STaReX.ENTITY.dll
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.ENTITY\obj\Debug\net8.0\STaReX.ENTITY.pdb
+C:\Users\Mert BELGE\Desktop\STaReX.API\STaReX.ENTITY\obj\Debug\net8.0\ref\STaReX.ENTITY.dll
+C:\Users\mert.belge\Desktop\STaReX\STaReX.API\STaReX.ENTITY\bin\Debug\net8.0\STaReX.ENTITY.deps.json
+C:\Users\mert.belge\Desktop\STaReX\STaReX.API\STaReX.ENTITY\bin\Debug\net8.0\STaReX.ENTITY.dll
+C:\Users\mert.belge\Desktop\STaReX\STaReX.API\STaReX.ENTITY\bin\Debug\net8.0\STaReX.ENTITY.pdb
+C:\Users\mert.belge\Desktop\STaReX\STaReX.API\STaReX.ENTITY\obj\Debug\net8.0\STaReX.ENTITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mert.belge\Desktop\STaReX\STaReX.API\STaReX.ENTITY\obj\Debug\net8.0\STaReX.ENTITY.AssemblyInfoInputs.cache
+C:\Users\mert.belge\Desktop\STaReX\STaReX.API\STaReX.ENTITY\obj\Debug\net8.0\STaReX.ENTITY.AssemblyInfo.cs
+C:\Users\mert.belge\Desktop\STaReX\STaReX.API\STaReX.ENTITY\obj\Debug\net8.0\STaReX.ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\mert.belge\Desktop\STaReX\STaReX.API\STaReX.ENTITY\obj\Debug\net8.0\STaReX.ENTITY.sourcelink.json
+C:\Users\mert.belge\Desktop\STaReX\STaReX.API\STaReX.ENTITY\obj\Debug\net8.0\STaReX.ENTITY.dll
+C:\Users\mert.belge\Desktop\STaReX\STaReX.API\STaReX.ENTITY\obj\Debug\net8.0\refint\STaReX.ENTITY.dll
+C:\Users\mert.belge\Desktop\STaReX\STaReX.API\STaReX.ENTITY\obj\Debug\net8.0\STaReX.ENTITY.pdb
+C:\Users\mert.belge\Desktop\STaReX\STaReX.API\STaReX.ENTITY\obj\Debug\net8.0\ref\STaReX.ENTITY.dll

@@ -18,16 +18,16 @@ namespace STaReX.BUSINESS.Concrete.HolidayService
     public class InformationService: IInformationService
     {
 
-        private readonly IHelperRepository<HolidayStatus> _repositoryHoliday;
-        private readonly IHelperRepository<WeatherStatus> _repositoryWeather;
+        private readonly IRequestMethods<HolidayStatus> _holidayMethods;
+        private readonly IRequestMethods<WeatherStatus> _weatherMethods;
         private readonly HelperOptions _helperOptions;
 
-        public InformationService(IHelperRepository<HolidayStatus> repositoryHoliday,
-            IHelperRepository<WeatherStatus> repositoryWeather,
+        public InformationService(IRequestMethods<HolidayStatus> holidayMethods,
+            IRequestMethods<WeatherStatus> weatherMethods,
             IOptions<HelperOptions> options)
         {
-            _repositoryHoliday = repositoryHoliday;
-            _repositoryWeather = repositoryWeather;
+            _holidayMethods = holidayMethods;
+            _weatherMethods = weatherMethods;
             _helperOptions = options.Value;
         }
 
@@ -35,7 +35,7 @@ namespace STaReX.BUSINESS.Concrete.HolidayService
         {
             var keyword = _helperOptions.HolidayOptions.HOLIDAY_KEYWORD;
 
-            var result = await _repositoryHoliday.GetAllAsyncFromAPI(keyword, null);
+            var result = await _holidayMethods.GetAllAsyncFromAPI(keyword, null);
 
             IEnumerable<HolidayResponse> response = result.resmitatiller.Select(x => new HolidayResponse
             {
@@ -58,7 +58,7 @@ namespace STaReX.BUSINESS.Concrete.HolidayService
             parameters.Add("latitude", latitude);
             parameters.Add("longitude", longitude);
 
-            var result = await _repositoryWeather.GetAllAsyncFromAPI(keyword, parameters);
+            var result = await _weatherMethods.GetAllAsyncFromAPI(keyword, parameters);
 
             WeatherResponse response = new WeatherResponse
             {

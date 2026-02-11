@@ -18,7 +18,6 @@ namespace STaReX.API.Controllers.HolidayController
         }
 
         [HttpGet("get-holidays")]
-        [ServiceFilter(typeof(AuthFilter))]
 
         public async Task<IActionResult> GetList()
         {

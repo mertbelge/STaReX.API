@@ -57,22 +57,17 @@ namespace STaReX.DB.Concrete
         {
             using (var connection = _dbContext.CreateConnection())
             {
-                var multipleResult = await connection.QueryMultipleAsync(query, parameters, commandType: System.Data.CommandType.StoredProcedure);
+                var result = await connection.QueryMultipleAsync(query, parameters, commandType: System.Data.CommandType.StoredProcedure);
+                var success = result.ReadFirstOrDefault<DatabaseResponse>();
 
-                var responseResult = await multipleResult.ReadFirstAsync<DatabaseResponse>();
-
-                if (responseResult.Success == true)
+                if (success.Success == true)
                 {
-                    var result = await multipleResult.ReadFirstAsync<T>();
-                    return result;
+
+                    var response = result.ReadFirstOrDefault<T>();
+                    return response;
                 }
-
-                else { 
-
-                    throw new ExceptionResponse(HttpStatusCode.InternalServerError, responseResult.Message);
+                else { throw new ExceptionResponse(statusCode: HttpStatusCode.BadRequest, message: success.Message); }
                 
-                }
-
             }
         }
     }

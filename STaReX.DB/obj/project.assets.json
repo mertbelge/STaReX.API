@@ -1690,23 +1690,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mert BELGE\\.nuget\\packages\\": {},
+    "C:\\Users\\mert.belge\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mert BELGE\\Desktop\\STaReX\\STaReX.DB\\STaReX.DB.csproj",
+      "projectUniqueName": "C:\\Users\\mert.belge\\Desktop\\STaReX\\STaReX.API\\STaReX.DB\\STaReX.DB.csproj",
       "projectName": "STaReX.DB",
-      "projectPath": "C:\\Users\\Mert BELGE\\Desktop\\STaReX\\STaReX.DB\\STaReX.DB.csproj",
-      "packagesPath": "C:\\Users\\Mert BELGE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mert BELGE\\Desktop\\STaReX\\STaReX.DB\\obj\\",
+      "projectPath": "C:\\Users\\mert.belge\\Desktop\\STaReX\\STaReX.API\\STaReX.DB\\STaReX.DB.csproj",
+      "packagesPath": "C:\\Users\\mert.belge\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mert.belge\\Desktop\\STaReX\\STaReX.API\\STaReX.DB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mert BELGE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mert.belge\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1715,15 +1715,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Mert BELGE\\Desktop\\STaReX\\STaReX.ENTITY\\STaReX.ENTITY.csproj": {
-              "projectPath": "C:\\Users\\Mert BELGE\\Desktop\\STaReX\\STaReX.ENTITY\\STaReX.ENTITY.csproj"
+            "C:\\Users\\mert.belge\\Desktop\\STaReX\\STaReX.API\\STaReX.ENTITY\\STaReX.ENTITY.csproj": {
+              "projectPath": "C:\\Users\\mert.belge\\Desktop\\STaReX\\STaReX.API\\STaReX.ENTITY\\STaReX.ENTITY.csproj"
             }
           }
         }
@@ -1738,7 +1737,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -1777,7 +1776,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

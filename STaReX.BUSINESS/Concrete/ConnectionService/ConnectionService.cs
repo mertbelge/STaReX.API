@@ -24,13 +24,13 @@ namespace STaReX.BUSINESS.Concrete.ConnectionTestingService
         private readonly IDatabaseRepository<ConnectionTesting> _repositoryConnection;
         private readonly IDatabaseRepository<TokenResponse> _repositoryToken;
         private readonly IDatabaseRepository<DatabaseResponse> _repositoryCheck;
-        private readonly IHelperRepository<NoData> _helperRepository;
+        private readonly IEncryptionMethods _encryptionMethods;
         private readonly HelperOptions _helperOptions;
 
         public ConnectionService(IDatabaseRepository<ConnectionTesting> repositoryConnection,
             IDatabaseRepository<TokenResponse> repositoryToken,
             IDatabaseRepository<DatabaseResponse> repositoryCheck,
-            IHelperRepository<NoData> helperRepository,
+            IEncryptionMethods encryptionMethods,
             IOptions<ProcedureOptions> procedureOptions,
             IOptions<HelperOptions> helperOptions)
         {
@@ -38,7 +38,7 @@ namespace STaReX.BUSINESS.Concrete.ConnectionTestingService
             _repositoryConnection = repositoryConnection;
             _repositoryToken = repositoryToken;
             _repositoryCheck = repositoryCheck;
-            _helperRepository = helperRepository;
+            _encryptionMethods = encryptionMethods;
             _procedureOptions = procedureOptions.Value;
             _helperOptions = helperOptions.Value;
 
@@ -61,7 +61,7 @@ namespace STaReX.BUSINESS.Concrete.ConnectionTestingService
             parameters.Add("Password", loginCredentials.password);
 
             var result = await _repositoryToken.UpdateMultipleAsync(procedure, parameters);
-            result.Token = _helperRepository.Encryption(result.Token, key);
+            result.Token = _encryptionMethods.Encryption(result.Token, key);
 
             return StatusResponse<TokenResponse>.Success(result);
 
@@ -71,7 +71,7 @@ namespace STaReX.BUSINESS.Concrete.ConnectionTestingService
         {
             var procedure = _procedureOptions.ConnectionProcedure.AUTH_CHECK;
             var key = _helperOptions.EncryptionOptions.KEY;
-            _Token = _helperRepository.Decryption(_Token, key);
+            _Token = _encryptionMethods.Decryption(_Token, key);
 
             DynamicParameters parameters = new DynamicParameters();
             parameters.Add("Token", _Token);

@@ -29,7 +29,10 @@ builder.Services.Configure<HelperOptions>(builder.Configuration.GetSection("Help
 
 builder.Services.AddSingleton<DBContext>();
 builder.Services.AddTransient(typeof(IDatabaseRepository<>), typeof(DatabaseRepository<>));
-builder.Services.AddTransient(typeof(IHelperRepository<>), typeof(HelperRepository<>));
+
+builder.Services.AddTransient(typeof(IRequestMethods<>), typeof(RequestMethods<>));
+builder.Services.AddTransient<IFileMethods, FileMethods>();
+builder.Services.AddTransient<IEncryptionMethods, EncryptionMethods>();
 
 builder.Services.AddTransient<IConnectionService, ConnectionService>();
 builder.Services.AddTransient<IInformationService, InformationService>();

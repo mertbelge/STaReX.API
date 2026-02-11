@@ -22,13 +22,13 @@ namespace STaReX.API.Controllers.QCDELogReaderController
 
         private readonly IQCDELogReaderService _qcdeLogReaderService;
         private readonly IWebHostEnvironment _env;
-        private readonly IHelperRepository<NoData> _repository;
+        private readonly IFileMethods _fileMethods;
 
-        public QCDELogReaderController(IQCDELogReaderService qcdeLogReaderService, IWebHostEnvironment env, IHelperRepository<NoData> repository)
+        public QCDELogReaderController(IQCDELogReaderService qcdeLogReaderService, IWebHostEnvironment env, IFileMethods fileMethods)
         { 
             _qcdeLogReaderService = qcdeLogReaderService;
             _env = env;
-            _repository = repository;
+            _fileMethods = fileMethods;
         }
 
         [HttpPost("log-files-insert")]
@@ -37,13 +37,13 @@ namespace STaReX.API.Controllers.QCDELogReaderController
         {
             string[] files = Directory.GetFiles(Path.Combine(_env.WebRootPath, "private", "ZandronumLog"));
 
-            string filename = _repository.GetFileNameFromFolder(files);
+            string filename = _fileMethods.GetFileNameFromFolder(files);
 
             var path_original = Path.Combine(_env.WebRootPath, "private", "ZandronumLog", filename);
             var path_copy = Path.Combine(_env.WebRootPath, "private", "ZandronumLog", "Copy.log");
 
-            string content_value = _repository.GetContextReplacedByCopy(path_copy, path_original).Result;
-            string full_content = _repository.GetContext(path_original).Result;
+            string content_value = _fileMethods.GetContextReplacedByCopy(path_copy, path_original).Result;
+            string full_content = _fileMethods.GetContext(path_original).Result;
 
             if (content_value.Length > 0)
             {
