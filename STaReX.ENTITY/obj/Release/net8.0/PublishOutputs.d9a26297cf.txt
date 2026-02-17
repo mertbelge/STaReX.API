@@ -1,0 +1,3 @@
+C:\Users\stalk\Desktop\STaReX\STaReX.API\publish\STaReX.ENTITY.dll
+C:\Users\stalk\Desktop\STaReX\STaReX.API\publish\STaReX.ENTITY.deps.json
+C:\Users\stalk\Desktop\STaReX\STaReX.API\publish\STaReX.ENTITY.pdb

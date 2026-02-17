@@ -61,3 +61,19 @@ C:\Users\Mert BELGE\Desktop\STaReX\STaReX.DB\obj\Release\net8.0\STaReX.DB.dll
 C:\Users\Mert BELGE\Desktop\STaReX\STaReX.DB\obj\Release\net8.0\refint\STaReX.DB.dll
 C:\Users\Mert BELGE\Desktop\STaReX\STaReX.DB\obj\Release\net8.0\STaReX.DB.pdb
 C:\Users\Mert BELGE\Desktop\STaReX\STaReX.DB\obj\Release\net8.0\ref\STaReX.DB.dll
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.DB\bin\Release\net8.0\STaReX.DB.deps.json
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.DB\bin\Release\net8.0\STaReX.DB.dll
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.DB\bin\Release\net8.0\STaReX.DB.pdb
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.DB\bin\Release\net8.0\STaReX.ENTITY.dll
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.DB\bin\Release\net8.0\STaReX.ENTITY.pdb
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.DB\obj\Release\net8.0\STaReX.DB.csproj.AssemblyReference.cache
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.DB\obj\Release\net8.0\STaReX.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.DB\obj\Release\net8.0\STaReX.DB.AssemblyInfoInputs.cache
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.DB\obj\Release\net8.0\STaReX.DB.AssemblyInfo.cs
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.DB\obj\Release\net8.0\STaReX.DB.csproj.CoreCompileInputs.cache
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.DB\obj\Release\net8.0\STaReX.DB.sourcelink.json
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.DB\obj\Release\net8.0\STaReX.DB.csproj.Up2Date
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.DB\obj\Release\net8.0\STaReX.DB.dll
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.DB\obj\Release\net8.0\refint\STaReX.DB.dll
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.DB\obj\Release\net8.0\STaReX.DB.pdb
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.DB\obj\Release\net8.0\ref\STaReX.DB.dll

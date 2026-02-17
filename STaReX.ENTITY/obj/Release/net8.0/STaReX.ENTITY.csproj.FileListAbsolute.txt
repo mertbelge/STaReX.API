@@ -45,3 +45,15 @@ C:\Users\Mert BELGE\Desktop\STaReX\STaReX.ENTITY\obj\Release\net8.0\STaReX.ENTIT
 C:\Users\Mert BELGE\Desktop\STaReX\STaReX.ENTITY\obj\Release\net8.0\refint\STaReX.ENTITY.dll
 C:\Users\Mert BELGE\Desktop\STaReX\STaReX.ENTITY\obj\Release\net8.0\STaReX.ENTITY.pdb
 C:\Users\Mert BELGE\Desktop\STaReX\STaReX.ENTITY\obj\Release\net8.0\ref\STaReX.ENTITY.dll
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.ENTITY\bin\Release\net8.0\STaReX.ENTITY.deps.json
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.ENTITY\bin\Release\net8.0\STaReX.ENTITY.dll
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.ENTITY\bin\Release\net8.0\STaReX.ENTITY.pdb
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.ENTITY\obj\Release\net8.0\STaReX.ENTITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.ENTITY\obj\Release\net8.0\STaReX.ENTITY.AssemblyInfoInputs.cache
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.ENTITY\obj\Release\net8.0\STaReX.ENTITY.AssemblyInfo.cs
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.ENTITY\obj\Release\net8.0\STaReX.ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.ENTITY\obj\Release\net8.0\STaReX.ENTITY.sourcelink.json
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.ENTITY\obj\Release\net8.0\STaReX.ENTITY.dll
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.ENTITY\obj\Release\net8.0\refint\STaReX.ENTITY.dll
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.ENTITY\obj\Release\net8.0\STaReX.ENTITY.pdb
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.ENTITY\obj\Release\net8.0\ref\STaReX.ENTITY.dll

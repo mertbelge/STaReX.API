@@ -1,8 +1,10 @@
 ﻿using STaReX.API.Filters;
 using STaReX.API.Middleware;
+using STaReX.BUSINESS.Abstract.IBlogService;
 using STaReX.BUSINESS.Abstract.IConnectionTestingService;
 using STaReX.BUSINESS.Abstract.IHolidayService;
 using STaReX.BUSINESS.Abstract.IQCDELogReaderService;
+using STaReX.BUSINESS.Concrete.BlogService;
 using STaReX.BUSINESS.Concrete.ConnectionTestingService;
 using STaReX.BUSINESS.Concrete.HolidayService;
 using STaReX.BUSINESS.Concrete.QCDELogReaderService;
@@ -37,10 +39,22 @@ builder.Services.AddTransient<IEncryptionMethods, EncryptionMethods>();
 builder.Services.AddTransient<IConnectionService, ConnectionService>();
 builder.Services.AddTransient<IInformationService, InformationService>();
 builder.Services.AddTransient<IQCDELogReaderService, QCDELogReaderService>();
+builder.Services.AddTransient<IBlogService, BlogService>();
 
 builder.Services.AddScoped<IConnectionService, ConnectionService>();
 builder.Services.AddScoped<AuthFilter>();
 builder.Services.AddScoped<DBFilter>();
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll",
+        policy =>
+        {
+            policy.AllowAnyOrigin()
+                  .AllowAnyHeader()
+                  .AllowAnyMethod();
+        });
+});
 
 var app = builder.Build();
 
@@ -55,6 +69,9 @@ app.UseMiddleware<FileMiddleware>();
 app.UseMiddleware<ExceptionMiddleware>();
 
 app.UseHttpsRedirection();
+
+app.UseCors("AllowAll");
+
 app.UseAuthorization();
 
 app.UseStaticFiles();

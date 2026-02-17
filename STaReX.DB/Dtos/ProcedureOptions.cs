@@ -11,6 +11,7 @@ namespace STaReX.DB.Dtos
         public ConnectionProcedure ConnectionProcedure { get; set; } = null!;
         public HelpersAPIProcedure HelpersAPIProcedure { get; set; } = null!;
         public QCDELogProcedure QCDELogProcedure { get; set; } = null!;
+        public BlogProcedure BlogProcedure { get; set; } = null!;
     }
 
     public class ConnectionProcedure
@@ -31,5 +32,10 @@ namespace STaReX.DB.Dtos
         public string GET_LAST_MAP { get; set; } = null!;
         public string GET_PLAYERS_LIST { get; set; } = null!;
         public string GET_CMD_COMMAND { get; set; } = null!;
+    }
+
+    public class BlogProcedure
+    {
+        public string GET_LIST { get; set; } = null!;
     }
 }

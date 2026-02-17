@@ -52,3 +52,21 @@ C:\Users\Mert BELGE\Desktop\STaReX\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELP
 C:\Users\Mert BELGE\Desktop\STaReX\STaReX.HELPERS\obj\Release\net8.0\refint\STaReX.HELPERS.dll
 C:\Users\Mert BELGE\Desktop\STaReX\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.pdb
 C:\Users\Mert BELGE\Desktop\STaReX\STaReX.HELPERS\obj\Release\net8.0\ref\STaReX.HELPERS.dll
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.HELPERS\bin\Release\net8.0\STaReX.HELPERS.deps.json
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.HELPERS\bin\Release\net8.0\STaReX.HELPERS.dll
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.HELPERS\bin\Release\net8.0\STaReX.HELPERS.pdb
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.HELPERS\bin\Release\net8.0\STaReX.DB.dll
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.HELPERS\bin\Release\net8.0\STaReX.ENTITY.dll
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.HELPERS\bin\Release\net8.0\STaReX.DB.pdb
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.HELPERS\bin\Release\net8.0\STaReX.ENTITY.pdb
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.csproj.AssemblyReference.cache
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.AssemblyInfoInputs.cache
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.AssemblyInfo.cs
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.csproj.CoreCompileInputs.cache
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.sourcelink.json
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.H.D22584D2.Up2Date
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.dll
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\refint\STaReX.HELPERS.dll
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\STaReX.HELPERS.pdb
+C:\Users\stalk\Desktop\STaReX\STaReX.API\STaReX.HELPERS\obj\Release\net8.0\ref\STaReX.HELPERS.dll
